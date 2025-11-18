@@ -59,6 +59,7 @@ data/raw/
 # pytest
 .pytest_cache/
 .coverage
+coverage.xml
 htmlcov/
 
 # Streamlit

@@ -1,0 +1,54 @@
+name: Tests
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.9', '3.10', '3.11']
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ matrix.python-version }}
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run test_all.py
+      run: |
+        python test_all.py
+      continue-on-error: true
+
+    - name: Run pytest tests
+      run: |
+        pytest test_hybrid_realistic.py -v --tb=short
+        pytest quickbooks_test.py -v --tb=short
+      continue-on-error: true
+
+    - name: Run tests with coverage
+      run: |
+        pytest --cov=src --cov-report=term --cov-report=html --cov-report=xml
+      continue-on-error: false
+
+    - name: Upload coverage reports
+      uses: codecov/codecov-action@v4
+      if: matrix.python-version == '3.9'
+      with:
+        file: ./coverage.xml
+        flags: unittests
+        name: codecov-umbrella
+        fail_ci_if_error: false
