@@ -1,0 +1,347 @@
+{
+  "test_date": "2025-11-17T14:54:03.766437",
+  "summary": {
+    "total": 56,
+    "passed": 56,
+    "failed": 0,
+    "pass_rate": 100.0
+  },
+  "tests": [
+    {
+      "section": "QuickBooks",
+      "name": "Import QuickBooks modules",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "QuickBooks",
+      "name": "Initialize QuickBooksAuth",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "QuickBooks",
+      "name": "Transform QuickBooks invoice",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "QuickBooks",
+      "name": "Category mapping",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "QuickBooks",
+      "name": "Date parsing",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Forecasting",
+      "name": "Import forecasting modules",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Forecasting",
+      "name": "Create Transaction object",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Forecasting",
+      "name": "Generate sample data",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Forecasting",
+      "name": "Generate 13-week forecast",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Forecasting",
+      "name": "Forecast calculations",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Forecasting",
+      "name": "Forecast validation",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "DataProcessor",
+      "name": "Create test historical data",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "DataProcessor",
+      "name": "Validate historical data",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "DataProcessor",
+      "name": "Clean data",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "DataProcessor",
+      "name": "Aggregate by category",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "DataProcessor",
+      "name": "Calculate category statistics",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Integration",
+      "name": "Transform QB data to Finly format",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Integration",
+      "name": "Create HistoricalData from QB data",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Integration",
+      "name": "Generate forecast from QB data",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Integration",
+      "name": "Export forecast to dict",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "SampleData",
+      "name": "Initialize SampleDataGenerator",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "SampleData",
+      "name": "Generate 52 weeks of transactions",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "SampleData",
+      "name": "Generate scenario data",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "SampleData",
+      "name": "Generate AR aging data",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/quickbooks/__init__.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/quickbooks/auth.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/quickbooks/client.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/quickbooks/oauth_server.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/quickbooks/transformer.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/quickbooks/data_fetcher.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/forecasting/__init__.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/forecasting/models.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/forecasting/engine.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/forecasting/predictor.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/forecasting/processor.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/dashboard/__init__.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: src/dashboard/app.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: utils/__init__.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: utils/sample_data.py",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: config/quickbooks.example.yaml",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: config/models.yaml",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: docs/QUICKBOOKS_SETUP.md",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: docs/QUICKBOOKS_INTEGRATION.md",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: docs/PROJECT_STRUCTURE.md",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: README.md",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: QUICKSTART.md",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: requirements.txt",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: .env.example",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "FileStructure",
+      "name": "File exists: .gitignore",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Configuration",
+      "name": "Check .env.example",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Configuration",
+      "name": "Check models.yaml",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Documentation",
+      "name": "README.md (167 lines)",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Documentation",
+      "name": "QUICKSTART.md (283 lines)",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Documentation",
+      "name": "docs/QUICKBOOKS_SETUP.md (463 lines)",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Documentation",
+      "name": "docs/QUICKBOOKS_INTEGRATION.md (555 lines)",
+      "passed": true,
+      "message": ""
+    },
+    {
+      "section": "Documentation",
+      "name": "docs/PROJECT_STRUCTURE.md (384 lines)",
+      "passed": true,
+      "message": ""
+    }
+  ]
+}
