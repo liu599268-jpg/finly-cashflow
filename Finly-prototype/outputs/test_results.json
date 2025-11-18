@@ -1,10 +1,10 @@
 {
-  "test_date": "2025-11-17T14:54:03.766437",
+  "test_date": "2025-11-18T16:19:43.919295",
   "summary": {
     "total": 56,
-    "passed": 56,
-    "failed": 0,
-    "pass_rate": 100.0
+    "passed": 53,
+    "failed": 3,
+    "pass_rate": 94.64285714285714
   },
   "tests": [
     {
@@ -292,20 +292,20 @@
     {
       "section": "FileStructure",
       "name": "File exists: .env.example",
-      "passed": true,
+      "passed": false,
       "message": ""
     },
     {
       "section": "FileStructure",
       "name": "File exists: .gitignore",
-      "passed": true,
+      "passed": false,
       "message": ""
     },
     {
       "section": "Configuration",
       "name": "Check .env.example",
-      "passed": true,
-      "message": ""
+      "passed": false,
+      "message": "[Errno 2] No such file or directory: '/home/user/finly-cashflow/Finly-prototype/.env.example'"
     },
     {
       "section": "Configuration",
