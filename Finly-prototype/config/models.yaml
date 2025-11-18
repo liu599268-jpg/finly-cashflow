@@ -1,0 +1,74 @@
+# ML Model Configuration
+
+forecasting:
+  # Default forecast settings
+  default_horizon_weeks: 13
+  confidence_level: 0.80  # 80% confidence intervals
+
+  # Historical data requirements
+  min_historical_weeks: 12
+  recommended_historical_weeks: 52
+
+  # Model selection
+  use_ensemble: false  # Set to true for better accuracy (slower)
+
+  # Category-specific settings
+  categories:
+    # Fixed cost categories (use median instead of mean)
+    fixed_costs:
+      - "rent"
+      - "insurance"
+
+    # High variance categories (wider confidence intervals)
+    high_variance:
+      - "marketing"
+      - "other_expenses"
+
+  # Trend detection
+  trend:
+    threshold: 0.05  # 5% change to detect trend
+    smoothing_factor: 0.3
+
+  # Seasonality
+  seasonality:
+    enabled: true
+    seasonal_periods: [52]  # Weekly seasonality over year
+
+  # Accuracy targets
+  accuracy:
+    target_mape: 0.15  # 15% target MAPE
+    min_confidence: 0.70  # Minimum 70% confidence
+
+# Model-specific parameters
+
+arima:
+  enabled: true
+  max_p: 5
+  max_d: 2
+  max_q: 5
+
+prophet:
+  enabled: true
+  changepoint_prior_scale: 0.05
+  seasonality_prior_scale: 10
+  seasonality_mode: 'multiplicative'
+  daily_seasonality: false
+  weekly_seasonality: true
+  yearly_seasonality: true
+
+xgboost:
+  enabled: true
+  n_estimators: 100
+  max_depth: 6
+  learning_rate: 0.1
+  min_child_weight: 1
+
+ensemble:
+  # Weights for ensemble models
+  weights:
+    arima: 0.30
+    prophet: 0.40
+    xgboost: 0.30
+
+  # Minimum models required
+  min_models: 2

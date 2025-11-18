@@ -1,0 +1,137 @@
+transaction_id,date,amount,category,transaction_type,description,business_type
+1,2024-11-18,14422.58,revenue,inflow,Monthly Retainer Fee,consulting
+2,2024-11-18,25109.07,payroll,outflow,Payroll,consulting
+4,2024-11-18,548.97,technology,outflow,Software Subscriptions,consulting
+3,2024-11-19,1721.77,professional_services,outflow,Professional Development,consulting
+5,2024-11-20,1334.56,marketing,outflow,Marketing & Business Development,consulting
+6,2024-11-28,478.78,travel,outflow,Client Travel,consulting
+7,2024-11-29,1639.98,marketing,outflow,Marketing & Business Development,consulting
+8,2024-12-02,25246.45,payroll,outflow,Payroll,consulting
+9,2024-12-06,1510.47,travel,outflow,Client Travel,consulting
+10,2024-12-16,11275.05,revenue,inflow,Monthly Retainer Fee,consulting
+11,2024-12-16,30917.2,revenue,inflow,Project Completion Payment,consulting
+12,2024-12-16,25592.46,payroll,outflow,Payroll,consulting
+15,2024-12-16,597.07,technology,outflow,Software Subscriptions,consulting
+13,2024-12-17,6945.63,professional_services,outflow,Contractor Fees,consulting
+14,2024-12-22,1523.79,travel,outflow,Client Travel,consulting
+16,2024-12-25,11843.07,professional_services,outflow,Contractor Fees,consulting
+17,2024-12-30,24902.51,payroll,outflow,Payroll,consulting
+18,2025-01-02,1655.99,travel,outflow,Client Travel,consulting
+19,2025-01-13,19219.64,revenue,inflow,Monthly Retainer Fee,consulting
+21,2025-01-13,25417.55,payroll,outflow,Payroll,consulting
+23,2025-01-13,1498.7,travel,outflow,Client Travel,consulting
+24,2025-01-13,607.83,technology,outflow,Software Subscriptions,consulting
+25,2025-01-17,1123.85,marketing,outflow,Marketing & Business Development,consulting
+20,2025-01-18,45418.47,revenue,inflow,Project Completion Payment,consulting
+22,2025-01-18,7017.29,professional_services,outflow,Contractor Fees,consulting
+26,2025-01-21,9188.83,professional_services,outflow,Contractor Fees,consulting
+27,2025-01-27,25498.0,payroll,outflow,Payroll,consulting
+28,2025-02-07,2899.83,travel,outflow,Client Travel,consulting
+29,2025-02-10,14955.35,revenue,inflow,Monthly Retainer Fee,consulting
+34,2025-02-10,563.83,technology,outflow,Software Subscriptions,consulting
+31,2025-02-10,25988.01,payroll,outflow,Payroll,consulting
+32,2025-02-11,11496.16,professional_services,outflow,Contractor Fees,consulting
+33,2025-02-15,1733.52,travel,outflow,Client Travel,consulting
+30,2025-02-16,43808.54,revenue,inflow,Project Completion Payment,consulting
+35,2025-02-20,11750.94,professional_services,outflow,Contractor Fees,consulting
+36,2025-02-24,25463.22,payroll,outflow,Payroll,consulting
+38,2025-03-03,11161.93,professional_services,outflow,Contractor Fees,consulting
+39,2025-03-04,2804.73,travel,outflow,Client Travel,consulting
+37,2025-03-07,31831.73,revenue,inflow,Project Completion Payment,consulting
+40,2025-03-10,15082.8,revenue,inflow,Monthly Retainer Fee,consulting
+41,2025-03-10,25710.8,payroll,outflow,Payroll,consulting
+44,2025-03-10,630.24,technology,outflow,Software Subscriptions,consulting
+42,2025-03-12,9241.95,professional_services,outflow,Contractor Fees,consulting
+43,2025-03-14,1282.64,travel,outflow,Client Travel,consulting
+45,2025-03-21,1685.97,marketing,outflow,Marketing & Business Development,consulting
+46,2025-03-24,25418.15,payroll,outflow,Payroll,consulting
+47,2025-04-01,42366.88,revenue,inflow,Project Completion Payment,consulting
+49,2025-04-03,1538.58,travel,outflow,Client Travel,consulting
+48,2025-04-04,7915.43,professional_services,outflow,Contractor Fees,consulting
+53,2025-04-07,609.08,technology,outflow,Software Subscriptions,consulting
+50,2025-04-07,15116.95,revenue,inflow,Monthly Retainer Fee,consulting
+51,2025-04-07,26215.92,payroll,outflow,Payroll,consulting
+52,2025-04-10,5560.44,professional_services,outflow,Contractor Fees,consulting
+54,2025-04-21,26473.83,payroll,outflow,Payroll,consulting
+55,2025-04-24,876.71,marketing,outflow,Marketing & Business Development,consulting
+57,2025-04-28,10769.32,professional_services,outflow,Contractor Fees,consulting
+58,2025-04-29,1577.61,travel,outflow,Client Travel,consulting
+56,2025-05-01,38958.73,revenue,inflow,Project Completion Payment,consulting
+59,2025-05-05,15192.56,revenue,inflow,Monthly Retainer Fee,consulting
+60,2025-05-05,25704.14,payroll,outflow,Payroll,consulting
+63,2025-05-05,582.61,technology,outflow,Software Subscriptions,consulting
+61,2025-05-11,8460.49,professional_services,outflow,Contractor Fees,consulting
+62,2025-05-11,1166.54,travel,outflow,Client Travel,consulting
+64,2025-05-13,1006.72,professional_services,outflow,Professional Development,consulting
+65,2025-05-19,26484.29,payroll,outflow,Payroll,consulting
+66,2025-05-19,2379.89,travel,outflow,Client Travel,consulting
+68,2025-05-28,10671.44,professional_services,outflow,Contractor Fees,consulting
+67,2025-05-31,49857.7,revenue,inflow,Project Completion Payment,consulting
+69,2025-05-31,1264.48,travel,outflow,Client Travel,consulting
+70,2025-05-31,1065.87,marketing,outflow,Marketing & Business Development,consulting
+71,2025-06-02,15525.2,revenue,inflow,Monthly Retainer Fee,consulting
+72,2025-06-02,26845.09,payroll,outflow,Payroll,consulting
+73,2025-06-02,11990.77,professional_services,outflow,Contractor Fees,consulting
+75,2025-06-02,620.48,technology,outflow,Software Subscriptions,consulting
+74,2025-06-05,2341.18,professional_services,outflow,Professional Development,consulting
+76,2025-06-09,1953.81,travel,outflow,Client Travel,consulting
+78,2025-06-16,26444.88,payroll,outflow,Payroll,consulting
+80,2025-06-18,1933.37,travel,outflow,Client Travel,consulting
+79,2025-06-19,9865.48,professional_services,outflow,Contractor Fees,consulting
+77,2025-06-20,34148.73,revenue,inflow,Project Completion Payment,consulting
+81,2025-06-26,7195.45,professional_services,outflow,Contractor Fees,consulting
+83,2025-06-30,26308.07,payroll,outflow,Payroll,consulting
+85,2025-06-30,599.24,technology,outflow,Software Subscriptions,consulting
+82,2025-06-30,15998.33,revenue,inflow,Monthly Retainer Fee,consulting
+84,2025-07-01,2542.11,professional_services,outflow,Professional Development,consulting
+86,2025-07-09,2741.78,travel,outflow,Client Travel,consulting
+88,2025-07-14,26479.85,payroll,outflow,Payroll,consulting
+89,2025-07-17,6048.94,professional_services,outflow,Contractor Fees,consulting
+90,2025-07-19,2342.65,travel,outflow,Client Travel,consulting
+87,2025-07-20,25095.13,revenue,inflow,Project Completion Payment,consulting
+91,2025-07-22,9544.64,professional_services,outflow,Contractor Fees,consulting
+92,2025-07-22,872.6,marketing,outflow,Marketing & Business Development,consulting
+97,2025-07-28,603.06,technology,outflow,Software Subscriptions,consulting
+93,2025-07-28,12247.53,revenue,inflow,Monthly Retainer Fee,consulting
+94,2025-07-28,26428.1,payroll,outflow,Payroll,consulting
+95,2025-08-03,1116.92,professional_services,outflow,Professional Development,consulting
+96,2025-08-03,1379.39,travel,outflow,Client Travel,consulting
+99,2025-08-11,26857.57,payroll,outflow,Payroll,consulting
+100,2025-08-12,9974.63,professional_services,outflow,Contractor Fees,consulting
+101,2025-08-14,463.85,travel,outflow,Client Travel,consulting
+98,2025-08-15,35876.95,revenue,inflow,Project Completion Payment,consulting
+103,2025-08-19,2736.89,travel,outflow,Client Travel,consulting
+102,2025-08-19,9495.1,professional_services,outflow,Contractor Fees,consulting
+104,2025-08-25,12412.24,revenue,inflow,Monthly Retainer Fee,consulting
+105,2025-08-25,26905.57,payroll,outflow,Payroll,consulting
+106,2025-08-25,621.27,technology,outflow,Software Subscriptions,consulting
+107,2025-09-07,1794.61,professional_services,outflow,Professional Development,consulting
+109,2025-09-08,27062.26,payroll,outflow,Payroll,consulting
+112,2025-09-09,2180.52,travel,outflow,Client Travel,consulting
+108,2025-09-10,48447.21,revenue,inflow,Project Completion Payment,consulting
+110,2025-09-11,8434.22,professional_services,outflow,Contractor Fees,consulting
+111,2025-09-14,1493.25,professional_services,outflow,Professional Development,consulting
+115,2025-09-17,1581.81,travel,outflow,Client Travel,consulting
+114,2025-09-18,1329.37,professional_services,outflow,Professional Development,consulting
+113,2025-09-20,8627.57,professional_services,outflow,Contractor Fees,consulting
+117,2025-09-22,26946.6,payroll,outflow,Payroll,consulting
+119,2025-09-22,645.22,technology,outflow,Software Subscriptions,consulting
+116,2025-09-22,20996.34,revenue,inflow,Monthly Retainer Fee,consulting
+120,2025-09-25,1340.94,marketing,outflow,Marketing & Business Development,consulting
+118,2025-09-27,2807.86,travel,outflow,Client Travel,consulting
+122,2025-10-06,27386.05,payroll,outflow,Payroll,consulting
+121,2025-10-07,40125.74,revenue,inflow,Project Completion Payment,consulting
+123,2025-10-10,5719.65,professional_services,outflow,Contractor Fees,consulting
+124,2025-10-10,1170.22,travel,outflow,Client Travel,consulting
+126,2025-10-13,1264.31,marketing,outflow,Marketing & Business Development,consulting
+125,2025-10-16,7912.28,professional_services,outflow,Contractor Fees,consulting
+127,2025-10-20,16252.96,revenue,inflow,Monthly Retainer Fee,consulting
+128,2025-10-20,26791.12,payroll,outflow,Payroll,consulting
+129,2025-10-20,547.02,technology,outflow,Software Subscriptions,consulting
+130,2025-10-21,1254.33,marketing,outflow,Marketing & Business Development,consulting
+131,2025-11-03,28021.94,revenue,inflow,Project Completion Payment,consulting
+132,2025-11-03,27894.55,payroll,outflow,Payroll,consulting
+133,2025-11-06,9319.76,professional_services,outflow,Contractor Fees,consulting
+134,2025-11-09,617.0,travel,outflow,Client Travel,consulting
+135,2025-11-11,10602.79,professional_services,outflow,Contractor Fees,consulting
+136,2025-11-16,1342.31,travel,outflow,Client Travel,consulting

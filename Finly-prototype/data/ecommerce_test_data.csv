@@ -1,0 +1,339 @@
+transaction_id,date,amount,category,transaction_type,description,business_type
+6,2024-11-19,772.48,technology,outflow,Software & Tools,e-commerce
+3,2024-11-20,8742.38,marketing,outflow,Digital Marketing,e-commerce
+2,2024-11-21,30172.11,cogs,outflow,Cost of Goods Sold,e-commerce
+7,2024-11-21,7858.59,payroll,outflow,Payroll,e-commerce
+1,2024-11-22,60147.63,revenue,inflow,Sales Revenue,e-commerce
+5,2024-11-22,1684.28,professional_services,outflow,Payment Processing,e-commerce
+4,2024-11-23,6373.32,technology,outflow,Shipping & Fulfillment,e-commerce
+8,2024-11-25,70926.87,revenue,inflow,Sales Revenue,e-commerce
+9,2024-11-25,32345.3,cogs,outflow,Cost of Goods Sold,e-commerce
+13,2024-11-26,760.57,technology,outflow,Software & Tools,e-commerce
+11,2024-11-27,6396.85,technology,outflow,Shipping & Fulfillment,e-commerce
+10,2024-11-27,9575.08,marketing,outflow,Digital Marketing,e-commerce
+12,2024-12-01,2079.84,professional_services,outflow,Payment Processing,e-commerce
+14,2024-12-02,54311.52,revenue,inflow,Sales Revenue,e-commerce
+20,2024-12-02,8201.68,payroll,outflow,Payroll,e-commerce
+15,2024-12-04,27304.59,cogs,outflow,Cost of Goods Sold,e-commerce
+17,2024-12-04,5738.26,technology,outflow,Shipping & Fulfillment,e-commerce
+16,2024-12-06,7144.87,marketing,outflow,Digital Marketing,e-commerce
+19,2024-12-06,790.6,technology,outflow,Software & Tools,e-commerce
+18,2024-12-08,1593.68,professional_services,outflow,Payment Processing,e-commerce
+26,2024-12-12,767.81,technology,outflow,Software & Tools,e-commerce
+24,2024-12-12,6635.5,technology,outflow,Shipping & Fulfillment,e-commerce
+22,2024-12-12,27492.28,cogs,outflow,Cost of Goods Sold,e-commerce
+21,2024-12-12,54815.01,revenue,inflow,Sales Revenue,e-commerce
+25,2024-12-15,1558.58,professional_services,outflow,Payment Processing,e-commerce
+23,2024-12-15,9490.02,marketing,outflow,Digital Marketing,e-commerce
+32,2024-12-17,784.94,technology,outflow,Software & Tools,e-commerce
+27,2024-12-17,63129.68,revenue,inflow,Sales Revenue,e-commerce
+33,2024-12-17,8098.8,payroll,outflow,Payroll,e-commerce
+28,2024-12-19,28891.34,cogs,outflow,Cost of Goods Sold,e-commerce
+30,2024-12-20,5948.47,technology,outflow,Shipping & Fulfillment,e-commerce
+29,2024-12-21,9309.83,marketing,outflow,Digital Marketing,e-commerce
+31,2024-12-22,1860.51,professional_services,outflow,Payment Processing,e-commerce
+35,2024-12-23,29659.68,cogs,outflow,Cost of Goods Sold,e-commerce
+39,2024-12-24,805.64,technology,outflow,Software & Tools,e-commerce
+34,2024-12-26,62445.74,revenue,inflow,Sales Revenue,e-commerce
+37,2024-12-27,6534.09,technology,outflow,Shipping & Fulfillment,e-commerce
+38,2024-12-27,1779.51,professional_services,outflow,Payment Processing,e-commerce
+36,2024-12-28,9365.31,marketing,outflow,Digital Marketing,e-commerce
+42,2024-12-30,9488.82,marketing,outflow,Digital Marketing,e-commerce
+43,2024-12-30,6383.79,technology,outflow,Shipping & Fulfillment,e-commerce
+40,2024-12-30,64338.84,revenue,inflow,Sales Revenue,e-commerce
+46,2025-01-01,8029.49,payroll,outflow,Payroll,e-commerce
+44,2025-01-02,1824.03,professional_services,outflow,Payment Processing,e-commerce
+41,2025-01-05,31150.55,cogs,outflow,Cost of Goods Sold,e-commerce
+45,2025-01-05,783.7,technology,outflow,Software & Tools,e-commerce
+49,2025-01-06,2500.0,marketing,outflow,Digital Marketing,e-commerce
+52,2025-01-06,812.09,technology,outflow,Software & Tools,e-commerce
+51,2025-01-07,491.05,professional_services,outflow,Payment Processing,e-commerce
+47,2025-01-09,16240.36,revenue,inflow,Sales Revenue,e-commerce
+50,2025-01-09,1787.09,technology,outflow,Shipping & Fulfillment,e-commerce
+48,2025-01-12,7960.12,cogs,outflow,Cost of Goods Sold,e-commerce
+57,2025-01-13,457.44,professional_services,outflow,Payment Processing,e-commerce
+59,2025-01-14,8175.52,payroll,outflow,Payroll,e-commerce
+56,2025-01-15,1830.36,technology,outflow,Shipping & Fulfillment,e-commerce
+53,2025-01-17,15559.65,revenue,inflow,Sales Revenue,e-commerce
+58,2025-01-17,830.98,technology,outflow,Software & Tools,e-commerce
+55,2025-01-18,2083.36,marketing,outflow,Digital Marketing,e-commerce
+54,2025-01-19,7327.46,cogs,outflow,Cost of Goods Sold,e-commerce
+63,2025-01-20,1823.73,technology,outflow,Shipping & Fulfillment,e-commerce
+60,2025-01-22,16532.26,revenue,inflow,Sales Revenue,e-commerce
+64,2025-01-23,460.78,professional_services,outflow,Payment Processing,e-commerce
+65,2025-01-24,795.15,technology,outflow,Software & Tools,e-commerce
+62,2025-01-26,1828.23,marketing,outflow,Digital Marketing,e-commerce
+61,2025-01-26,7741.91,cogs,outflow,Cost of Goods Sold,e-commerce
+70,2025-01-28,536.86,professional_services,outflow,Payment Processing,e-commerce
+71,2025-01-28,778.3,technology,outflow,Software & Tools,e-commerce
+66,2025-01-29,18051.1,revenue,inflow,Sales Revenue,e-commerce
+67,2025-01-29,9017.67,cogs,outflow,Cost of Goods Sold,e-commerce
+69,2025-01-30,1718.63,technology,outflow,Shipping & Fulfillment,e-commerce
+72,2025-01-31,8091.5,payroll,outflow,Payroll,e-commerce
+68,2025-02-01,2015.37,marketing,outflow,Digital Marketing,e-commerce
+76,2025-02-03,1651.45,technology,outflow,Shipping & Fulfillment,e-commerce
+73,2025-02-04,16948.32,revenue,inflow,Sales Revenue,e-commerce
+75,2025-02-06,2201.05,marketing,outflow,Digital Marketing,e-commerce
+78,2025-02-08,830.66,technology,outflow,Software & Tools,e-commerce
+74,2025-02-09,7814.26,cogs,outflow,Cost of Goods Sold,e-commerce
+77,2025-02-09,487.4,professional_services,outflow,Payment Processing,e-commerce
+82,2025-02-10,1861.31,technology,outflow,Shipping & Fulfillment,e-commerce
+79,2025-02-10,15987.68,revenue,inflow,Sales Revenue,e-commerce
+84,2025-02-11,760.56,technology,outflow,Software & Tools,e-commerce
+83,2025-02-12,480.37,professional_services,outflow,Payment Processing,e-commerce
+85,2025-02-13,8280.48,payroll,outflow,Payroll,e-commerce
+81,2025-02-14,2174.69,marketing,outflow,Digital Marketing,e-commerce
+80,2025-02-15,7465.3,cogs,outflow,Cost of Goods Sold,e-commerce
+86,2025-02-18,16762.53,revenue,inflow,Sales Revenue,e-commerce
+91,2025-02-18,765.19,technology,outflow,Software & Tools,e-commerce
+87,2025-02-20,7779.12,cogs,outflow,Cost of Goods Sold,e-commerce
+88,2025-02-20,1988.01,marketing,outflow,Digital Marketing,e-commerce
+89,2025-02-22,1770.34,technology,outflow,Shipping & Fulfillment,e-commerce
+90,2025-02-23,481.44,professional_services,outflow,Payment Processing,e-commerce
+93,2025-02-24,8968.63,cogs,outflow,Cost of Goods Sold,e-commerce
+92,2025-02-24,19366.16,revenue,inflow,Sales Revenue,e-commerce
+96,2025-02-25,588.39,professional_services,outflow,Payment Processing,e-commerce
+94,2025-02-26,2685.98,marketing,outflow,Digital Marketing,e-commerce
+98,2025-02-27,8167.62,payroll,outflow,Payroll,e-commerce
+97,2025-02-28,792.88,technology,outflow,Software & Tools,e-commerce
+95,2025-03-01,1668.37,technology,outflow,Shipping & Fulfillment,e-commerce
+102,2025-03-04,2290.43,technology,outflow,Shipping & Fulfillment,e-commerce
+101,2025-03-06,3318.65,marketing,outflow,Digital Marketing,e-commerce
+100,2025-03-07,12388.3,cogs,outflow,Cost of Goods Sold,e-commerce
+104,2025-03-08,779.37,technology,outflow,Software & Tools,e-commerce
+103,2025-03-08,734.82,professional_services,outflow,Payment Processing,e-commerce
+99,2025-03-08,25673.16,revenue,inflow,Sales Revenue,e-commerce
+108,2025-03-11,2410.39,technology,outflow,Shipping & Fulfillment,e-commerce
+105,2025-03-12,26434.54,revenue,inflow,Sales Revenue,e-commerce
+107,2025-03-12,3629.19,marketing,outflow,Digital Marketing,e-commerce
+109,2025-03-12,742.57,professional_services,outflow,Payment Processing,e-commerce
+111,2025-03-12,8399.66,payroll,outflow,Payroll,e-commerce
+106,2025-03-13,12168.72,cogs,outflow,Cost of Goods Sold,e-commerce
+110,2025-03-16,763.26,technology,outflow,Software & Tools,e-commerce
+114,2025-03-17,3763.87,marketing,outflow,Digital Marketing,e-commerce
+115,2025-03-17,2448.79,technology,outflow,Shipping & Fulfillment,e-commerce
+116,2025-03-18,727.31,professional_services,outflow,Payment Processing,e-commerce
+112,2025-03-19,25035.3,revenue,inflow,Sales Revenue,e-commerce
+113,2025-03-20,11531.67,cogs,outflow,Cost of Goods Sold,e-commerce
+117,2025-03-23,827.02,technology,outflow,Software & Tools,e-commerce
+118,2025-03-24,26625.08,revenue,inflow,Sales Revenue,e-commerce
+123,2025-03-26,801.33,technology,outflow,Software & Tools,e-commerce
+120,2025-03-27,2852.54,marketing,outflow,Digital Marketing,e-commerce
+121,2025-03-28,2337.48,technology,outflow,Shipping & Fulfillment,e-commerce
+122,2025-03-28,809.36,professional_services,outflow,Payment Processing,e-commerce
+119,2025-03-29,13030.25,cogs,outflow,Cost of Goods Sold,e-commerce
+124,2025-03-30,8334.88,payroll,outflow,Payroll,e-commerce
+127,2025-03-31,3489.22,marketing,outflow,Digital Marketing,e-commerce
+126,2025-04-02,11864.79,cogs,outflow,Cost of Goods Sold,e-commerce
+125,2025-04-03,25096.75,revenue,inflow,Sales Revenue,e-commerce
+128,2025-04-03,2698.56,technology,outflow,Shipping & Fulfillment,e-commerce
+130,2025-04-03,822.39,technology,outflow,Software & Tools,e-commerce
+129,2025-04-05,755.98,professional_services,outflow,Payment Processing,e-commerce
+137,2025-04-07,8456.67,payroll,outflow,Payroll,e-commerce
+133,2025-04-07,3763.37,marketing,outflow,Digital Marketing,e-commerce
+135,2025-04-07,768.42,professional_services,outflow,Payment Processing,e-commerce
+131,2025-04-09,27082.37,revenue,inflow,Sales Revenue,e-commerce
+134,2025-04-10,2736.83,technology,outflow,Shipping & Fulfillment,e-commerce
+136,2025-04-10,784.43,technology,outflow,Software & Tools,e-commerce
+132,2025-04-11,12833.51,cogs,outflow,Cost of Goods Sold,e-commerce
+139,2025-04-16,12295.6,cogs,outflow,Cost of Goods Sold,e-commerce
+140,2025-04-16,3029.08,marketing,outflow,Digital Marketing,e-commerce
+138,2025-04-17,26465.85,revenue,inflow,Sales Revenue,e-commerce
+141,2025-04-19,2622.09,technology,outflow,Shipping & Fulfillment,e-commerce
+143,2025-04-19,784.64,technology,outflow,Software & Tools,e-commerce
+142,2025-04-20,784.47,professional_services,outflow,Payment Processing,e-commerce
+146,2025-04-21,3063.17,marketing,outflow,Digital Marketing,e-commerce
+150,2025-04-23,8508.59,payroll,outflow,Payroll,e-commerce
+148,2025-04-24,721.13,professional_services,outflow,Payment Processing,e-commerce
+144,2025-04-24,24544.61,revenue,inflow,Sales Revenue,e-commerce
+149,2025-04-25,823.58,technology,outflow,Software & Tools,e-commerce
+147,2025-04-25,2696.02,technology,outflow,Shipping & Fulfillment,e-commerce
+145,2025-04-27,12338.69,cogs,outflow,Cost of Goods Sold,e-commerce
+154,2025-04-28,2747.28,technology,outflow,Shipping & Fulfillment,e-commerce
+152,2025-04-30,13423.64,cogs,outflow,Cost of Goods Sold,e-commerce
+153,2025-05-01,2615.81,marketing,outflow,Digital Marketing,e-commerce
+155,2025-05-02,787.43,professional_services,outflow,Payment Processing,e-commerce
+156,2025-05-02,782.36,technology,outflow,Software & Tools,e-commerce
+151,2025-05-03,27234.51,revenue,inflow,Sales Revenue,e-commerce
+159,2025-05-05,3793.43,marketing,outflow,Digital Marketing,e-commerce
+158,2025-05-06,13140.19,cogs,outflow,Cost of Goods Sold,e-commerce
+160,2025-05-06,2676.5,technology,outflow,Shipping & Fulfillment,e-commerce
+163,2025-05-06,8673.99,payroll,outflow,Payroll,e-commerce
+157,2025-05-07,26154.86,revenue,inflow,Sales Revenue,e-commerce
+162,2025-05-10,790.81,technology,outflow,Software & Tools,e-commerce
+161,2025-05-11,742.9,professional_services,outflow,Payment Processing,e-commerce
+168,2025-05-12,865.15,professional_services,outflow,Payment Processing,e-commerce
+167,2025-05-12,2585.57,technology,outflow,Shipping & Fulfillment,e-commerce
+169,2025-05-12,780.33,technology,outflow,Software & Tools,e-commerce
+165,2025-05-13,13901.11,cogs,outflow,Cost of Goods Sold,e-commerce
+166,2025-05-13,2827.42,marketing,outflow,Digital Marketing,e-commerce
+164,2025-05-13,30260.59,revenue,inflow,Sales Revenue,e-commerce
+172,2025-05-19,2935.8,marketing,outflow,Digital Marketing,e-commerce
+176,2025-05-19,8742.15,payroll,outflow,Payroll,e-commerce
+170,2025-05-20,28507.53,revenue,inflow,Sales Revenue,e-commerce
+173,2025-05-22,2654.68,technology,outflow,Shipping & Fulfillment,e-commerce
+175,2025-05-22,829.37,technology,outflow,Software & Tools,e-commerce
+174,2025-05-23,852.36,professional_services,outflow,Payment Processing,e-commerce
+171,2025-05-25,13491.35,cogs,outflow,Cost of Goods Sold,e-commerce
+181,2025-05-26,648.71,professional_services,outflow,Payment Processing,e-commerce
+182,2025-05-27,806.31,technology,outflow,Software & Tools,e-commerce
+180,2025-05-28,2693.31,technology,outflow,Shipping & Fulfillment,e-commerce
+179,2025-05-31,2624.98,marketing,outflow,Digital Marketing,e-commerce
+177,2025-06-01,23478.54,revenue,inflow,Sales Revenue,e-commerce
+178,2025-06-01,11153.38,cogs,outflow,Cost of Goods Sold,e-commerce
+185,2025-06-02,4311.15,marketing,outflow,Digital Marketing,e-commerce
+188,2025-06-05,825.81,technology,outflow,Software & Tools,e-commerce
+189,2025-06-05,8597.8,payroll,outflow,Payroll,e-commerce
+187,2025-06-05,983.93,professional_services,outflow,Payment Processing,e-commerce
+183,2025-06-05,35574.37,revenue,inflow,Sales Revenue,e-commerce
+184,2025-06-06,16711.2,cogs,outflow,Cost of Goods Sold,e-commerce
+186,2025-06-06,2944.83,technology,outflow,Shipping & Fulfillment,e-commerce
+192,2025-06-10,3414.0,marketing,outflow,Digital Marketing,e-commerce
+194,2025-06-10,1063.3,professional_services,outflow,Payment Processing,e-commerce
+190,2025-06-12,36517.16,revenue,inflow,Sales Revenue,e-commerce
+193,2025-06-12,3270.38,technology,outflow,Shipping & Fulfillment,e-commerce
+191,2025-06-13,16801.43,cogs,outflow,Cost of Goods Sold,e-commerce
+195,2025-06-14,810.99,technology,outflow,Software & Tools,e-commerce
+197,2025-06-16,14468.44,cogs,outflow,Cost of Goods Sold,e-commerce
+200,2025-06-16,861.07,professional_services,outflow,Payment Processing,e-commerce
+201,2025-06-17,774.75,technology,outflow,Software & Tools,e-commerce
+202,2025-06-17,8546.58,payroll,outflow,Payroll,e-commerce
+198,2025-06-19,4049.38,marketing,outflow,Digital Marketing,e-commerce
+199,2025-06-20,3408.63,technology,outflow,Shipping & Fulfillment,e-commerce
+196,2025-06-22,30450.68,revenue,inflow,Sales Revenue,e-commerce
+208,2025-06-27,782.39,technology,outflow,Software & Tools,e-commerce
+203,2025-06-27,31756.97,revenue,inflow,Sales Revenue,e-commerce
+206,2025-06-27,3389.49,technology,outflow,Shipping & Fulfillment,e-commerce
+207,2025-06-28,935.71,professional_services,outflow,Payment Processing,e-commerce
+204,2025-06-29,14862.63,cogs,outflow,Cost of Goods Sold,e-commerce
+205,2025-06-29,4241.91,marketing,outflow,Digital Marketing,e-commerce
+209,2025-06-30,34643.74,revenue,inflow,Sales Revenue,e-commerce
+215,2025-07-03,8579.77,payroll,outflow,Payroll,e-commerce
+213,2025-07-03,955.88,professional_services,outflow,Payment Processing,e-commerce
+214,2025-07-04,769.29,technology,outflow,Software & Tools,e-commerce
+210,2025-07-05,16209.5,cogs,outflow,Cost of Goods Sold,e-commerce
+211,2025-07-05,3920.34,marketing,outflow,Digital Marketing,e-commerce
+212,2025-07-05,3417.6,technology,outflow,Shipping & Fulfillment,e-commerce
+221,2025-07-08,811.98,technology,outflow,Software & Tools,e-commerce
+216,2025-07-08,30437.94,revenue,inflow,Sales Revenue,e-commerce
+217,2025-07-08,14994.99,cogs,outflow,Cost of Goods Sold,e-commerce
+220,2025-07-10,879.58,professional_services,outflow,Payment Processing,e-commerce
+219,2025-07-11,3150.1,technology,outflow,Shipping & Fulfillment,e-commerce
+218,2025-07-12,4670.7,marketing,outflow,Digital Marketing,e-commerce
+224,2025-07-14,4881.24,marketing,outflow,Digital Marketing,e-commerce
+223,2025-07-15,15130.51,cogs,outflow,Cost of Goods Sold,e-commerce
+226,2025-07-16,964.48,professional_services,outflow,Payment Processing,e-commerce
+228,2025-07-17,8825.32,payroll,outflow,Payroll,e-commerce
+227,2025-07-17,814.72,technology,outflow,Software & Tools,e-commerce
+225,2025-07-17,3250.68,technology,outflow,Shipping & Fulfillment,e-commerce
+222,2025-07-20,33127.57,revenue,inflow,Sales Revenue,e-commerce
+229,2025-07-21,34580.82,revenue,inflow,Sales Revenue,e-commerce
+230,2025-07-22,16836.64,cogs,outflow,Cost of Goods Sold,e-commerce
+231,2025-07-23,4090.53,marketing,outflow,Digital Marketing,e-commerce
+232,2025-07-24,3279.65,technology,outflow,Shipping & Fulfillment,e-commerce
+233,2025-07-25,1047.12,professional_services,outflow,Payment Processing,e-commerce
+234,2025-07-25,790.89,technology,outflow,Software & Tools,e-commerce
+240,2025-07-28,812.46,technology,outflow,Software & Tools,e-commerce
+238,2025-07-29,3326.87,technology,outflow,Shipping & Fulfillment,e-commerce
+236,2025-07-29,15552.3,cogs,outflow,Cost of Goods Sold,e-commerce
+235,2025-07-29,32803.27,revenue,inflow,Sales Revenue,e-commerce
+239,2025-07-30,935.75,professional_services,outflow,Payment Processing,e-commerce
+237,2025-08-02,3392.83,marketing,outflow,Digital Marketing,e-commerce
+241,2025-08-03,8790.29,payroll,outflow,Payroll,e-commerce
+246,2025-08-04,1018.03,professional_services,outflow,Payment Processing,e-commerce
+242,2025-08-04,34298.4,revenue,inflow,Sales Revenue,e-commerce
+244,2025-08-05,4711.07,marketing,outflow,Digital Marketing,e-commerce
+247,2025-08-06,824.28,technology,outflow,Software & Tools,e-commerce
+243,2025-08-07,16787.12,cogs,outflow,Cost of Goods Sold,e-commerce
+245,2025-08-08,3764.23,technology,outflow,Shipping & Fulfillment,e-commerce
+254,2025-08-11,9004.19,payroll,outflow,Payroll,e-commerce
+252,2025-08-11,1271.42,professional_services,outflow,Payment Processing,e-commerce
+248,2025-08-11,44551.4,revenue,inflow,Sales Revenue,e-commerce
+253,2025-08-13,834.46,technology,outflow,Software & Tools,e-commerce
+250,2025-08-15,4250.66,marketing,outflow,Digital Marketing,e-commerce
+251,2025-08-17,3693.49,technology,outflow,Shipping & Fulfillment,e-commerce
+249,2025-08-17,21197.81,cogs,outflow,Cost of Goods Sold,e-commerce
+258,2025-08-18,3422.73,technology,outflow,Shipping & Fulfillment,e-commerce
+259,2025-08-20,1065.75,professional_services,outflow,Payment Processing,e-commerce
+255,2025-08-21,37509.22,revenue,inflow,Sales Revenue,e-commerce
+256,2025-08-21,18066.23,cogs,outflow,Cost of Goods Sold,e-commerce
+260,2025-08-21,768.0,technology,outflow,Software & Tools,e-commerce
+257,2025-08-22,4473.84,marketing,outflow,Digital Marketing,e-commerce
+262,2025-08-25,18741.52,cogs,outflow,Cost of Goods Sold,e-commerce
+264,2025-08-27,3487.76,technology,outflow,Shipping & Fulfillment,e-commerce
+266,2025-08-28,766.66,technology,outflow,Software & Tools,e-commerce
+263,2025-08-28,4796.77,marketing,outflow,Digital Marketing,e-commerce
+261,2025-08-28,37339.18,revenue,inflow,Sales Revenue,e-commerce
+265,2025-08-29,1082.08,professional_services,outflow,Payment Processing,e-commerce
+267,2025-08-29,8777.35,payroll,outflow,Payroll,e-commerce
+269,2025-09-03,21021.98,cogs,outflow,Cost of Goods Sold,e-commerce
+272,2025-09-03,1179.72,professional_services,outflow,Payment Processing,e-commerce
+273,2025-09-03,803.96,technology,outflow,Software & Tools,e-commerce
+268,2025-09-05,42563.09,revenue,inflow,Sales Revenue,e-commerce
+271,2025-09-05,3496.09,technology,outflow,Shipping & Fulfillment,e-commerce
+270,2025-09-07,3747.44,marketing,outflow,Digital Marketing,e-commerce
+275,2025-09-08,16076.39,cogs,outflow,Cost of Goods Sold,e-commerce
+279,2025-09-09,766.73,technology,outflow,Software & Tools,e-commerce
+278,2025-09-09,967.06,professional_services,outflow,Payment Processing,e-commerce
+274,2025-09-09,34732.45,revenue,inflow,Sales Revenue,e-commerce
+276,2025-09-09,4948.63,marketing,outflow,Digital Marketing,e-commerce
+277,2025-09-10,3582.75,technology,outflow,Shipping & Fulfillment,e-commerce
+280,2025-09-12,9041.33,payroll,outflow,Payroll,e-commerce
+282,2025-09-15,18453.56,cogs,outflow,Cost of Goods Sold,e-commerce
+284,2025-09-18,3754.2,technology,outflow,Shipping & Fulfillment,e-commerce
+285,2025-09-18,1189.03,professional_services,outflow,Payment Processing,e-commerce
+283,2025-09-19,4625.7,marketing,outflow,Digital Marketing,e-commerce
+286,2025-09-20,778.93,technology,outflow,Software & Tools,e-commerce
+281,2025-09-21,39498.63,revenue,inflow,Sales Revenue,e-commerce
+292,2025-09-23,786.42,technology,outflow,Software & Tools,e-commerce
+289,2025-09-23,4261.35,marketing,outflow,Digital Marketing,e-commerce
+293,2025-09-25,8991.75,payroll,outflow,Payroll,e-commerce
+290,2025-09-25,3643.56,technology,outflow,Shipping & Fulfillment,e-commerce
+288,2025-09-26,20077.84,cogs,outflow,Cost of Goods Sold,e-commerce
+287,2025-09-26,41905.65,revenue,inflow,Sales Revenue,e-commerce
+291,2025-09-27,1184.73,professional_services,outflow,Payment Processing,e-commerce
+297,2025-09-29,3672.23,technology,outflow,Shipping & Fulfillment,e-commerce
+296,2025-09-29,4747.38,marketing,outflow,Digital Marketing,e-commerce
+298,2025-09-29,1024.09,professional_services,outflow,Payment Processing,e-commerce
+295,2025-10-02,16167.28,cogs,outflow,Cost of Goods Sold,e-commerce
+299,2025-10-04,836.97,technology,outflow,Software & Tools,e-commerce
+294,2025-10-05,35021.31,revenue,inflow,Sales Revenue,e-commerce
+306,2025-10-06,9215.46,payroll,outflow,Payroll,e-commerce
+303,2025-10-08,2528.0,technology,outflow,Shipping & Fulfillment,e-commerce
+304,2025-10-08,791.23,professional_services,outflow,Payment Processing,e-commerce
+300,2025-10-09,27776.47,revenue,inflow,Sales Revenue,e-commerce
+302,2025-10-09,3811.71,marketing,outflow,Digital Marketing,e-commerce
+305,2025-10-09,763.47,technology,outflow,Software & Tools,e-commerce
+301,2025-10-10,13735.5,cogs,outflow,Cost of Goods Sold,e-commerce
+308,2025-10-13,13898.9,cogs,outflow,Cost of Goods Sold,e-commerce
+311,2025-10-14,839.57,professional_services,outflow,Payment Processing,e-commerce
+309,2025-10-15,3450.56,marketing,outflow,Digital Marketing,e-commerce
+310,2025-10-16,2477.27,technology,outflow,Shipping & Fulfillment,e-commerce
+312,2025-10-18,806.75,technology,outflow,Software & Tools,e-commerce
+307,2025-10-19,28586.14,revenue,inflow,Sales Revenue,e-commerce
+315,2025-10-20,2915.05,marketing,outflow,Digital Marketing,e-commerce
+317,2025-10-22,811.45,professional_services,outflow,Payment Processing,e-commerce
+313,2025-10-23,28082.92,revenue,inflow,Sales Revenue,e-commerce
+316,2025-10-23,2344.06,technology,outflow,Shipping & Fulfillment,e-commerce
+314,2025-10-24,13641.74,cogs,outflow,Cost of Goods Sold,e-commerce
+318,2025-10-25,788.27,technology,outflow,Software & Tools,e-commerce
+319,2025-10-26,9138.17,payroll,outflow,Payroll,e-commerce
+322,2025-10-28,3601.66,marketing,outflow,Digital Marketing,e-commerce
+323,2025-10-29,2592.37,technology,outflow,Shipping & Fulfillment,e-commerce
+320,2025-10-31,28842.64,revenue,inflow,Sales Revenue,e-commerce
+324,2025-10-31,808.22,professional_services,outflow,Payment Processing,e-commerce
+321,2025-11-01,13580.77,cogs,outflow,Cost of Goods Sold,e-commerce
+325,2025-11-02,832.87,technology,outflow,Software & Tools,e-commerce
+328,2025-11-03,9205.32,marketing,outflow,Digital Marketing,e-commerce
+326,2025-11-04,80507.57,revenue,inflow,Sales Revenue,e-commerce
+331,2025-11-04,792.9,technology,outflow,Software & Tools,e-commerce
+329,2025-11-05,6314.48,technology,outflow,Shipping & Fulfillment,e-commerce
+330,2025-11-07,2256.47,professional_services,outflow,Payment Processing,e-commerce
+327,2025-11-09,37031.22,cogs,outflow,Cost of Goods Sold,e-commerce
+332,2025-11-09,9255.49,payroll,outflow,Payroll,e-commerce
+337,2025-11-10,1919.19,professional_services,outflow,Payment Processing,e-commerce
+336,2025-11-13,5704.39,technology,outflow,Shipping & Fulfillment,e-commerce
+333,2025-11-14,69393.08,revenue,inflow,Sales Revenue,e-commerce
+338,2025-11-14,770.71,technology,outflow,Software & Tools,e-commerce
+335,2025-11-15,8221.06,marketing,outflow,Digital Marketing,e-commerce
+334,2025-11-16,34405.08,cogs,outflow,Cost of Goods Sold,e-commerce

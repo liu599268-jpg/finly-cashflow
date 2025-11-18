@@ -1,0 +1,1185 @@
+transaction_id,date,amount,category,transaction_type,description,customer,vendor
+16,2024-11-18,3011.14,marketing,outflow,Marketing,,Vendor_3
+10,2024-11-18,1003.64,other_income,inflow,Other Income,Customer_12,
+19,2024-11-19,545.68,utilities,outflow,Utilities,,Vendor_9
+20,2024-11-19,545.68,utilities,outflow,Utilities,,Vendor_21
+23,2024-11-20,1721.67,travel,outflow,Travel,,Vendor_14
+5,2024-11-20,7802.06,revenue,inflow,Revenue,Customer_24,
+7,2024-11-20,7802.06,revenue,inflow,Revenue,Customer_22,
+12,2024-11-20,15809.48,payroll,outflow,Payroll,,Vendor_10
+18,2024-11-21,1099.98,insurance,outflow,Insurance,,Vendor_25
+13,2024-11-21,15809.48,payroll,outflow,Payroll,,Vendor_28
+11,2024-11-21,18020.41,cogs,outflow,Cogs,,Vendor_25
+8,2024-11-21,236.49,investment_income,inflow,Investment Income,Customer_30,
+24,2024-11-21,274.97,office_supplies,outflow,Office Supplies,,Vendor_2
+6,2024-11-22,7802.06,revenue,inflow,Revenue,Customer_36,
+17,2024-11-22,3946.72,technology,outflow,Technology,,Vendor_9
+2,2024-11-22,7802.06,revenue,inflow,Revenue,Customer_21,
+14,2024-11-23,9077.05,rent,outflow,Rent,,Vendor_15
+25,2024-11-23,274.97,office_supplies,outflow,Office Supplies,,Vendor_6
+26,2024-11-23,1523.48,other_expenses,outflow,Other Expenses,,Vendor_29
+9,2024-11-23,236.49,investment_income,inflow,Investment Income,Customer_2,
+27,2024-11-24,1523.48,other_expenses,outflow,Other Expenses,,Vendor_18
+1,2024-11-24,7802.06,revenue,inflow,Revenue,Customer_43,
+21,2024-11-24,1026.21,professional_services,outflow,Professional Services,,Vendor_28
+15,2024-11-24,3011.14,marketing,outflow,Marketing,,Vendor_20
+4,2024-11-24,7802.06,revenue,inflow,Revenue,Customer_11,
+3,2024-11-24,7802.06,revenue,inflow,Revenue,Customer_19,
+22,2024-11-24,1026.21,professional_services,outflow,Professional Services,,Vendor_12
+39,2024-11-25,4641.29,marketing,outflow,Marketing,,Vendor_8
+38,2024-11-25,13934.64,payroll,outflow,Payroll,,Vendor_12
+37,2024-11-25,13934.64,payroll,outflow,Payroll,,Vendor_24
+34,2024-11-26,585.25,other_income,inflow,Other Income,Customer_25,
+28,2024-11-26,15987.7,revenue,inflow,Revenue,Customer_36,
+40,2024-11-27,3773.27,technology,outflow,Technology,,Vendor_5
+45,2024-11-27,921.51,travel,outflow,Travel,,Vendor_1
+35,2024-11-28,585.25,other_income,inflow,Other Income,Customer_45,
+42,2024-11-28,488.74,utilities,outflow,Utilities,,Vendor_2
+36,2024-11-29,14800.79,cogs,outflow,Cogs,,Vendor_1
+32,2024-11-29,290.45,investment_income,inflow,Investment Income,Customer_16,
+33,2024-11-29,290.45,investment_income,inflow,Investment Income,Customer_18,
+31,2024-11-30,15987.7,revenue,inflow,Revenue,Customer_23,
+29,2024-11-30,15987.7,revenue,inflow,Revenue,Customer_31,
+46,2024-11-30,549.13,office_supplies,outflow,Office Supplies,,Vendor_3
+44,2024-11-30,921.51,travel,outflow,Travel,,Vendor_27
+48,2024-12-01,1908.61,other_expenses,outflow,Other Expenses,,Vendor_27
+47,2024-12-01,1908.61,other_expenses,outflow,Other Expenses,,Vendor_14
+43,2024-12-01,1931.48,professional_services,outflow,Professional Services,,Vendor_24
+41,2024-12-01,488.74,utilities,outflow,Utilities,,Vendor_9
+30,2024-12-01,15987.7,revenue,inflow,Revenue,Customer_8,
+67,2024-12-02,1609.18,other_expenses,outflow,Other Expenses,,Vendor_17
+63,2024-12-02,1499.36,travel,outflow,Travel,,Vendor_5
+66,2024-12-02,1609.18,other_expenses,outflow,Other Expenses,,Vendor_20
+49,2024-12-03,14561.5,revenue,inflow,Revenue,Customer_13,
+56,2024-12-03,14969.78,payroll,outflow,Payroll,,Vendor_10
+55,2024-12-04,20383.79,cogs,outflow,Cogs,,Vendor_19
+50,2024-12-04,14561.5,revenue,inflow,Revenue,Customer_32,
+62,2024-12-04,2602.55,professional_services,outflow,Professional Services,,Vendor_7
+61,2024-12-04,779.49,utilities,outflow,Utilities,,Vendor_25
+52,2024-12-05,14561.5,revenue,inflow,Revenue,Customer_32,
+64,2024-12-05,310.82,office_supplies,outflow,Office Supplies,,Vendor_24
+60,2024-12-05,3219.93,technology,outflow,Technology,,Vendor_25
+58,2024-12-05,2835.88,marketing,outflow,Marketing,,Vendor_20
+57,2024-12-06,14969.78,payroll,outflow,Payroll,,Vendor_25
+54,2024-12-06,1113.04,other_income,inflow,Other Income,Customer_36,
+59,2024-12-07,2835.88,marketing,outflow,Marketing,,Vendor_11
+65,2024-12-08,310.82,office_supplies,outflow,Office Supplies,,Vendor_27
+53,2024-12-08,622.35,investment_income,inflow,Investment Income,Customer_39,
+51,2024-12-08,14561.5,revenue,inflow,Revenue,Customer_49,
+71,2024-12-09,8689.86,revenue,inflow,Revenue,Customer_17,
+70,2024-12-09,8689.86,revenue,inflow,Revenue,Customer_37,
+86,2024-12-09,917.85,travel,outflow,Travel,,Vendor_1
+73,2024-12-10,8689.86,revenue,inflow,Revenue,Customer_2,
+69,2024-12-10,8689.86,revenue,inflow,Revenue,Customer_3,
+85,2024-12-11,2508.65,professional_services,outflow,Professional Services,,Vendor_20
+72,2024-12-11,8689.86,revenue,inflow,Revenue,Customer_49,
+78,2024-12-11,19165.11,payroll,outflow,Payroll,,Vendor_17
+77,2024-12-12,8782.1,cogs,outflow,Cogs,,Vendor_23
+88,2024-12-12,656.44,office_supplies,outflow,Office Supplies,,Vendor_25
+82,2024-12-12,3884.0,technology,outflow,Technology,,Vendor_27
+83,2024-12-12,377.67,utilities,outflow,Utilities,,Vendor_27
+84,2024-12-12,377.67,utilities,outflow,Utilities,,Vendor_19
+74,2024-12-13,557.74,investment_income,inflow,Investment Income,Customer_32,
+75,2024-12-14,1345.52,other_income,inflow,Other Income,Customer_2,
+76,2024-12-14,8782.1,cogs,outflow,Cogs,,Vendor_23
+80,2024-12-14,3044.62,marketing,outflow,Marketing,,Vendor_11
+68,2024-12-14,8689.86,revenue,inflow,Revenue,Customer_39,
+89,2024-12-15,2933.42,other_expenses,outflow,Other Expenses,,Vendor_10
+79,2024-12-15,19165.11,payroll,outflow,Payroll,,Vendor_6
+81,2024-12-15,3044.62,marketing,outflow,Marketing,,Vendor_16
+87,2024-12-15,917.85,travel,outflow,Travel,,Vendor_18
+91,2024-12-16,8722.02,revenue,inflow,Revenue,Customer_49,
+97,2024-12-16,669.14,other_income,inflow,Other Income,Customer_24,
+105,2024-12-16,1512.94,technology,outflow,Technology,,Vendor_14
+102,2024-12-16,16494.66,payroll,outflow,Payroll,,Vendor_29
+101,2024-12-16,16494.66,payroll,outflow,Payroll,,Vendor_3
+90,2024-12-17,8722.02,revenue,inflow,Revenue,Customer_48,
+92,2024-12-17,8722.02,revenue,inflow,Revenue,Customer_1,
+95,2024-12-18,8722.02,revenue,inflow,Revenue,Customer_9,
+96,2024-12-18,528.17,investment_income,inflow,Investment Income,Customer_20,
+114,2024-12-19,3466.13,other_expenses,outflow,Other Expenses,,Vendor_29
+113,2024-12-19,304.91,office_supplies,outflow,Office Supplies,,Vendor_15
+108,2024-12-19,985.52,utilities,outflow,Utilities,,Vendor_27
+100,2024-12-19,10205.85,cogs,outflow,Cogs,,Vendor_3
+98,2024-12-19,669.14,other_income,inflow,Other Income,Customer_11,
+104,2024-12-20,5760.89,marketing,outflow,Marketing,,Vendor_9
+106,2024-12-20,1512.94,technology,outflow,Technology,,Vendor_16
+94,2024-12-20,8722.02,revenue,inflow,Revenue,Customer_37,
+112,2024-12-20,304.91,office_supplies,outflow,Office Supplies,,Vendor_1
+110,2024-12-20,900.38,travel,outflow,Travel,,Vendor_19
+99,2024-12-21,10205.85,cogs,outflow,Cogs,,Vendor_8
+93,2024-12-21,8722.02,revenue,inflow,Revenue,Customer_12,
+111,2024-12-21,900.38,travel,outflow,Travel,,Vendor_8
+109,2024-12-21,2195.05,professional_services,outflow,Professional Services,,Vendor_14
+103,2024-12-21,9070.45,rent,outflow,Rent,,Vendor_18
+107,2024-12-22,1187.41,insurance,outflow,Insurance,,Vendor_3
+116,2024-12-23,9672.36,revenue,inflow,Revenue,Customer_44,
+125,2024-12-23,15802.98,payroll,outflow,Payroll,,Vendor_10
+132,2024-12-23,842.85,travel,outflow,Travel,,Vendor_24
+121,2024-12-23,685.74,investment_income,inflow,Investment Income,Customer_46,
+127,2024-12-24,3130.25,marketing,outflow,Marketing,,Vendor_15
+131,2024-12-24,2191.6,professional_services,outflow,Professional Services,,Vendor_23
+129,2024-12-24,2082.98,technology,outflow,Technology,,Vendor_2
+124,2024-12-25,15802.98,payroll,outflow,Payroll,,Vendor_18
+130,2024-12-25,1058.39,utilities,outflow,Utilities,,Vendor_22
+120,2024-12-25,9672.36,revenue,inflow,Revenue,Customer_41,
+115,2024-12-25,9672.36,revenue,inflow,Revenue,Customer_49,
+122,2024-12-26,1377.78,other_income,inflow,Other Income,Customer_33,
+134,2024-12-26,583.16,office_supplies,outflow,Office Supplies,,Vendor_13
+117,2024-12-26,9672.36,revenue,inflow,Revenue,Customer_30,
+133,2024-12-27,842.85,travel,outflow,Travel,,Vendor_28
+123,2024-12-27,14457.58,cogs,outflow,Cogs,,Vendor_23
+119,2024-12-27,9672.36,revenue,inflow,Revenue,Customer_6,
+118,2024-12-27,9672.36,revenue,inflow,Revenue,Customer_46,
+126,2024-12-28,3130.25,marketing,outflow,Marketing,,Vendor_24
+135,2024-12-28,1528.61,other_expenses,outflow,Other Expenses,,Vendor_16
+136,2024-12-28,1528.61,other_expenses,outflow,Other Expenses,,Vendor_12
+128,2024-12-29,2082.98,technology,outflow,Technology,,Vendor_27
+156,2024-12-30,1003.41,professional_services,outflow,Professional Services,,Vendor_8
+142,2024-12-30,11193.04,revenue,inflow,Revenue,Customer_42,
+144,2024-12-30,328.34,investment_income,inflow,Investment Income,Customer_8,
+140,2024-12-31,11193.04,revenue,inflow,Revenue,Customer_22,
+141,2024-12-31,11193.04,revenue,inflow,Revenue,Customer_22,
+137,2024-12-31,11193.04,revenue,inflow,Revenue,Customer_2,
+159,2024-12-31,1688.79,other_expenses,outflow,Other Expenses,,Vendor_16
+154,2024-12-31,1000.78,utilities,outflow,Utilities,,Vendor_26
+160,2025-01-01,1688.79,other_expenses,outflow,Other Expenses,,Vendor_5
+143,2025-01-01,328.34,investment_income,inflow,Investment Income,Customer_37,
+148,2025-01-01,9918.11,cogs,outflow,Cogs,,Vendor_23
+139,2025-01-01,11193.04,revenue,inflow,Revenue,Customer_25,
+151,2025-01-01,6503.11,marketing,outflow,Marketing,,Vendor_28
+145,2025-01-02,644.45,other_income,inflow,Other Income,Customer_5,
+147,2025-01-02,9918.11,cogs,outflow,Cogs,,Vendor_15
+150,2025-01-02,14924.88,payroll,outflow,Payroll,,Vendor_10
+157,2025-01-03,2048.25,travel,outflow,Travel,,Vendor_7
+149,2025-01-03,14924.88,payroll,outflow,Payroll,,Vendor_18
+152,2025-01-03,1915.24,technology,outflow,Technology,,Vendor_26
+153,2025-01-03,1915.24,technology,outflow,Technology,,Vendor_23
+155,2025-01-04,1003.41,professional_services,outflow,Professional Services,,Vendor_22
+158,2025-01-04,618.19,office_supplies,outflow,Office Supplies,,Vendor_29
+146,2025-01-05,644.45,other_income,inflow,Other Income,Customer_4,
+138,2025-01-05,11193.04,revenue,inflow,Revenue,Customer_22,
+183,2025-01-06,2561.9,other_expenses,outflow,Other Expenses,,Vendor_7
+163,2025-01-06,5525.24,revenue,inflow,Revenue,Customer_30,
+174,2025-01-06,11837.07,payroll,outflow,Payroll,,Vendor_28
+182,2025-01-07,213.12,office_supplies,outflow,Office Supplies,,Vendor_26
+180,2025-01-07,1104.51,travel,outflow,Travel,,Vendor_3
+178,2025-01-07,696.45,utilities,outflow,Utilities,,Vendor_11
+166,2025-01-07,5525.24,revenue,inflow,Revenue,Customer_26,
+171,2025-01-07,537.99,other_income,inflow,Other Income,Customer_19,
+170,2025-01-07,537.99,other_income,inflow,Other Income,Customer_31,
+176,2025-01-08,2681.83,marketing,outflow,Marketing,,Vendor_28
+177,2025-01-08,2329.73,technology,outflow,Technology,,Vendor_11
+175,2025-01-09,2681.83,marketing,outflow,Marketing,,Vendor_18
+165,2025-01-09,5525.24,revenue,inflow,Revenue,Customer_16,
+179,2025-01-09,1602.25,professional_services,outflow,Professional Services,,Vendor_14
+172,2025-01-10,13698.89,cogs,outflow,Cogs,,Vendor_13
+162,2025-01-10,5525.24,revenue,inflow,Revenue,Customer_47,
+181,2025-01-10,213.12,office_supplies,outflow,Office Supplies,,Vendor_26
+167,2025-01-10,5525.24,revenue,inflow,Revenue,Customer_39,
+164,2025-01-11,5525.24,revenue,inflow,Revenue,Customer_5,
+161,2025-01-11,5525.24,revenue,inflow,Revenue,Customer_28,
+168,2025-01-11,214.01,investment_income,inflow,Investment Income,Customer_37,
+173,2025-01-12,11837.07,payroll,outflow,Payroll,,Vendor_2
+169,2025-01-12,214.01,investment_income,inflow,Investment Income,Customer_10,
+205,2025-01-13,807.71,travel,outflow,Travel,,Vendor_7
+199,2025-01-13,3753.14,marketing,outflow,Marketing,,Vendor_19
+189,2025-01-13,5530.51,revenue,inflow,Revenue,Customer_24,
+197,2025-01-13,13895.91,payroll,outflow,Payroll,,Vendor_22
+195,2025-01-13,15023.13,cogs,outflow,Cogs,,Vendor_17
+194,2025-01-13,427.83,other_income,inflow,Other Income,Customer_13,
+184,2025-01-14,5530.51,revenue,inflow,Revenue,Customer_45,
+188,2025-01-14,5530.51,revenue,inflow,Revenue,Customer_37,
+191,2025-01-14,249.63,investment_income,inflow,Investment Income,Customer_49,
+203,2025-01-15,364.52,utilities,outflow,Utilities,,Vendor_12
+198,2025-01-15,7162.82,rent,outflow,Rent,,Vendor_17
+185,2025-01-15,5530.51,revenue,inflow,Revenue,Customer_29,
+190,2025-01-15,5530.51,revenue,inflow,Revenue,Customer_49,
+196,2025-01-16,13895.91,payroll,outflow,Payroll,,Vendor_16
+200,2025-01-16,2293.34,technology,outflow,Technology,,Vendor_14
+201,2025-01-16,930.0,insurance,outflow,Insurance,,Vendor_19
+186,2025-01-16,5530.51,revenue,inflow,Revenue,Customer_25,
+187,2025-01-17,5530.51,revenue,inflow,Revenue,Customer_36,
+202,2025-01-17,364.52,utilities,outflow,Utilities,,Vendor_5
+204,2025-01-17,1702.43,professional_services,outflow,Professional Services,,Vendor_4
+206,2025-01-17,807.71,travel,outflow,Travel,,Vendor_21
+208,2025-01-17,2677.42,other_expenses,outflow,Other Expenses,,Vendor_11
+193,2025-01-17,427.83,other_income,inflow,Other Income,Customer_12,
+207,2025-01-18,455.9,office_supplies,outflow,Office Supplies,,Vendor_26
+192,2025-01-19,249.63,investment_income,inflow,Investment Income,Customer_32,
+228,2025-01-20,946.11,professional_services,outflow,Professional Services,,Vendor_25
+227,2025-01-20,946.11,professional_services,outflow,Professional Services,,Vendor_28
+226,2025-01-20,827.03,utilities,outflow,Utilities,,Vendor_3
+209,2025-01-20,8257.99,revenue,inflow,Revenue,Customer_10,
+211,2025-01-20,8257.99,revenue,inflow,Revenue,Customer_38,
+230,2025-01-21,787.93,travel,outflow,Travel,,Vendor_12
+214,2025-01-21,8257.99,revenue,inflow,Revenue,Customer_9,
+215,2025-01-21,258.36,investment_income,inflow,Investment Income,Customer_5,
+210,2025-01-21,8257.99,revenue,inflow,Revenue,Customer_44,
+222,2025-01-22,2219.56,marketing,outflow,Marketing,,Vendor_7
+233,2025-01-23,1588.24,other_expenses,outflow,Other Expenses,,Vendor_5
+225,2025-01-23,1238.05,technology,outflow,Technology,,Vendor_28
+224,2025-01-23,1238.05,technology,outflow,Technology,,Vendor_26
+220,2025-01-23,12910.83,payroll,outflow,Payroll,,Vendor_19
+231,2025-01-24,545.3,office_supplies,outflow,Office Supplies,,Vendor_15
+219,2025-01-24,16190.6,cogs,outflow,Cogs,,Vendor_4
+217,2025-01-24,408.94,other_income,inflow,Other Income,Customer_1,
+216,2025-01-24,258.36,investment_income,inflow,Investment Income,Customer_37,
+229,2025-01-24,787.93,travel,outflow,Travel,,Vendor_6
+213,2025-01-24,8257.99,revenue,inflow,Revenue,Customer_40,
+221,2025-01-24,12910.83,payroll,outflow,Payroll,,Vendor_12
+232,2025-01-24,1588.24,other_expenses,outflow,Other Expenses,,Vendor_11
+223,2025-01-25,2219.56,marketing,outflow,Marketing,,Vendor_3
+218,2025-01-25,408.94,other_income,inflow,Other Income,Customer_17,
+212,2025-01-26,8257.99,revenue,inflow,Revenue,Customer_46,
+245,2025-01-27,14220.05,payroll,outflow,Payroll,,Vendor_4
+246,2025-01-27,4950.09,marketing,outflow,Marketing,,Vendor_1
+253,2025-01-27,198.58,office_supplies,outflow,Office Supplies,,Vendor_18
+238,2025-01-27,8266.74,revenue,inflow,Revenue,Customer_3,
+252,2025-01-27,198.58,office_supplies,outflow,Office Supplies,,Vendor_22
+236,2025-01-27,8266.74,revenue,inflow,Revenue,Customer_14,
+242,2025-01-28,5970.79,cogs,outflow,Cogs,,Vendor_8
+243,2025-01-28,5970.79,cogs,outflow,Cogs,,Vendor_28
+239,2025-01-29,532.25,investment_income,inflow,Investment Income,Customer_12,
+254,2025-01-29,3288.3,other_expenses,outflow,Other Expenses,,Vendor_21
+251,2025-01-29,665.48,travel,outflow,Travel,,Vendor_13
+247,2025-01-30,2654.18,technology,outflow,Technology,,Vendor_16
+234,2025-01-30,8266.74,revenue,inflow,Revenue,Customer_18,
+244,2025-01-30,14220.05,payroll,outflow,Payroll,,Vendor_5
+241,2025-01-30,542.81,other_income,inflow,Other Income,Customer_8,
+248,2025-02-01,854.47,utilities,outflow,Utilities,,Vendor_18
+250,2025-02-01,665.48,travel,outflow,Travel,,Vendor_18
+240,2025-02-01,542.81,other_income,inflow,Other Income,Customer_12,
+249,2025-02-02,1773.44,professional_services,outflow,Professional Services,,Vendor_25
+237,2025-02-02,8266.74,revenue,inflow,Revenue,Customer_31,
+235,2025-02-02,8266.74,revenue,inflow,Revenue,Customer_41,
+264,2025-02-03,2252.14,marketing,outflow,Marketing,,Vendor_19
+258,2025-02-03,374.38,investment_income,inflow,Investment Income,Customer_21,
+256,2025-02-03,16846.45,revenue,inflow,Revenue,Customer_13,
+257,2025-02-03,16846.45,revenue,inflow,Revenue,Customer_34,
+266,2025-02-03,2434.23,technology,outflow,Technology,,Vendor_8
+274,2025-02-04,1535.53,other_expenses,outflow,Other Expenses,,Vendor_11
+268,2025-02-04,346.76,utilities,outflow,Utilities,,Vendor_2
+263,2025-02-04,15268.84,payroll,outflow,Payroll,,Vendor_19
+269,2025-02-05,1820.59,professional_services,outflow,Professional Services,,Vendor_18
+275,2025-02-05,1535.53,other_expenses,outflow,Other Expenses,,Vendor_7
+259,2025-02-06,377.98,other_income,inflow,Other Income,Customer_17,
+270,2025-02-06,786.38,travel,outflow,Travel,,Vendor_5
+265,2025-02-07,2252.14,marketing,outflow,Marketing,,Vendor_13
+262,2025-02-07,15268.84,payroll,outflow,Payroll,,Vendor_10
+261,2025-02-07,15163.64,cogs,outflow,Cogs,,Vendor_23
+260,2025-02-07,377.98,other_income,inflow,Other Income,Customer_31,
+271,2025-02-08,786.38,travel,outflow,Travel,,Vendor_27
+255,2025-02-08,16846.45,revenue,inflow,Revenue,Customer_27,
+272,2025-02-09,220.89,office_supplies,outflow,Office Supplies,,Vendor_15
+273,2025-02-09,220.89,office_supplies,outflow,Office Supplies,,Vendor_15
+267,2025-02-09,346.76,utilities,outflow,Utilities,,Vendor_26
+285,2025-02-10,7724.72,cogs,outflow,Cogs,,Vendor_28
+284,2025-02-10,7724.72,cogs,outflow,Cogs,,Vendor_10
+297,2025-02-10,216.16,office_supplies,outflow,Office Supplies,,Vendor_5
+283,2025-02-10,965.73,other_income,inflow,Other Income,Customer_5,
+299,2025-02-10,1359.49,other_expenses,outflow,Other Expenses,,Vendor_14
+294,2025-02-11,926.38,professional_services,outflow,Professional Services,,Vendor_19
+277,2025-02-11,6557.02,revenue,inflow,Revenue,Customer_34,
+278,2025-02-11,6557.02,revenue,inflow,Revenue,Customer_30,
+276,2025-02-11,6557.02,revenue,inflow,Revenue,Customer_38,
+293,2025-02-11,926.38,professional_services,outflow,Professional Services,,Vendor_29
+295,2025-02-11,1127.5,travel,outflow,Travel,,Vendor_28
+289,2025-02-12,4750.52,marketing,outflow,Marketing,,Vendor_15
+280,2025-02-12,6557.02,revenue,inflow,Revenue,Customer_34,
+292,2025-02-12,794.51,utilities,outflow,Utilities,,Vendor_3
+281,2025-02-13,6557.02,revenue,inflow,Revenue,Customer_38,
+291,2025-02-13,887.51,insurance,outflow,Insurance,,Vendor_8
+282,2025-02-13,451.34,investment_income,inflow,Investment Income,Customer_30,
+296,2025-02-14,216.16,office_supplies,outflow,Office Supplies,,Vendor_6
+286,2025-02-14,11415.16,payroll,outflow,Payroll,,Vendor_2
+288,2025-02-15,7253.76,rent,outflow,Rent,,Vendor_11
+287,2025-02-15,11415.16,payroll,outflow,Payroll,,Vendor_21
+298,2025-02-15,1359.49,other_expenses,outflow,Other Expenses,,Vendor_2
+279,2025-02-16,6557.02,revenue,inflow,Revenue,Customer_27,
+290,2025-02-16,2352.25,technology,outflow,Technology,,Vendor_11
+300,2025-02-17,8598.07,revenue,inflow,Revenue,Customer_26,
+318,2025-02-17,816.02,professional_services,outflow,Professional Services,,Vendor_17
+306,2025-02-17,190.13,investment_income,inflow,Investment Income,Customer_35,
+316,2025-02-17,404.04,utilities,outflow,Utilities,,Vendor_17
+302,2025-02-17,8598.07,revenue,inflow,Revenue,Customer_22,
+301,2025-02-17,8598.07,revenue,inflow,Revenue,Customer_47,
+322,2025-02-17,1430.35,other_expenses,outflow,Other Expenses,,Vendor_12
+321,2025-02-18,1430.35,other_expenses,outflow,Other Expenses,,Vendor_15
+315,2025-02-18,404.04,utilities,outflow,Utilities,,Vendor_7
+309,2025-02-18,6188.45,cogs,outflow,Cogs,,Vendor_13
+320,2025-02-18,514.6,office_supplies,outflow,Office Supplies,,Vendor_15
+304,2025-02-19,8598.07,revenue,inflow,Revenue,Customer_48,
+310,2025-02-19,11415.06,payroll,outflow,Payroll,,Vendor_24
+311,2025-02-19,11415.06,payroll,outflow,Payroll,,Vendor_7
+314,2025-02-19,1166.32,technology,outflow,Technology,,Vendor_15
+305,2025-02-20,190.13,investment_income,inflow,Investment Income,Customer_1,
+319,2025-02-20,1296.81,travel,outflow,Travel,,Vendor_10
+313,2025-02-22,1166.32,technology,outflow,Technology,,Vendor_3
+317,2025-02-22,816.02,professional_services,outflow,Professional Services,,Vendor_12
+312,2025-02-23,5247.99,marketing,outflow,Marketing,,Vendor_28
+308,2025-02-23,6188.45,cogs,outflow,Cogs,,Vendor_14
+307,2025-02-23,806.09,other_income,inflow,Other Income,Customer_22,
+303,2025-02-23,8598.07,revenue,inflow,Revenue,Customer_30,
+326,2025-02-24,430.76,investment_income,inflow,Investment Income,Customer_22,
+325,2025-02-25,13109.17,revenue,inflow,Revenue,Customer_45,
+341,2025-02-25,252.89,office_supplies,outflow,Office Supplies,,Vendor_14
+337,2025-02-25,417.14,utilities,outflow,Utilities,,Vendor_19
+331,2025-02-26,11535.7,payroll,outflow,Payroll,,Vendor_8
+328,2025-02-27,411.34,other_income,inflow,Other Income,Customer_30,
+339,2025-02-27,1288.57,travel,outflow,Travel,,Vendor_1
+334,2025-02-27,2677.14,marketing,outflow,Marketing,,Vendor_15
+333,2025-02-27,2677.14,marketing,outflow,Marketing,,Vendor_11
+324,2025-02-27,13109.17,revenue,inflow,Revenue,Customer_26,
+323,2025-02-28,13109.17,revenue,inflow,Revenue,Customer_6,
+332,2025-02-28,11535.7,payroll,outflow,Payroll,,Vendor_4
+335,2025-03-01,3124.35,technology,outflow,Technology,,Vendor_24
+338,2025-03-01,2098.8,professional_services,outflow,Professional Services,,Vendor_26
+329,2025-03-01,6062.68,cogs,outflow,Cogs,,Vendor_24
+342,2025-03-01,2538.27,other_expenses,outflow,Other Expenses,,Vendor_11
+330,2025-03-02,6062.68,cogs,outflow,Cogs,,Vendor_9
+336,2025-03-02,417.14,utilities,outflow,Utilities,,Vendor_11
+340,2025-03-02,252.89,office_supplies,outflow,Office Supplies,,Vendor_1
+327,2025-03-02,411.34,other_income,inflow,Other Income,Customer_48,
+364,2025-03-03,2863.98,other_expenses,outflow,Other Expenses,,Vendor_15
+350,2025-03-03,417.54,investment_income,inflow,Investment Income,Customer_17,
+360,2025-03-03,987.15,professional_services,outflow,Professional Services,,Vendor_13
+344,2025-03-03,7756.95,revenue,inflow,Revenue,Customer_6,
+349,2025-03-04,7756.95,revenue,inflow,Revenue,Customer_20,
+345,2025-03-04,7756.95,revenue,inflow,Revenue,Customer_10,
+347,2025-03-04,7756.95,revenue,inflow,Revenue,Customer_44,
+348,2025-03-04,7756.95,revenue,inflow,Revenue,Customer_13,
+354,2025-03-05,16473.01,payroll,outflow,Payroll,,Vendor_9
+356,2025-03-05,1578.85,technology,outflow,Technology,,Vendor_9
+343,2025-03-05,7756.95,revenue,inflow,Revenue,Customer_3,
+346,2025-03-07,7756.95,revenue,inflow,Revenue,Customer_23,
+352,2025-03-07,13049.77,cogs,outflow,Cogs,,Vendor_28
+357,2025-03-07,1578.85,technology,outflow,Technology,,Vendor_14
+358,2025-03-07,837.11,utilities,outflow,Utilities,,Vendor_19
+351,2025-03-08,783.99,other_income,inflow,Other Income,Customer_35,
+353,2025-03-08,16473.01,payroll,outflow,Payroll,,Vendor_21
+355,2025-03-08,4406.15,marketing,outflow,Marketing,,Vendor_28
+359,2025-03-08,987.15,professional_services,outflow,Professional Services,,Vendor_4
+362,2025-03-08,719.0,travel,outflow,Travel,,Vendor_19
+363,2025-03-09,485.96,office_supplies,outflow,Office Supplies,,Vendor_15
+361,2025-03-09,719.0,travel,outflow,Travel,,Vendor_8
+371,2025-03-10,6318.62,revenue,inflow,Revenue,Customer_30,
+373,2025-03-10,268.46,investment_income,inflow,Investment Income,Customer_33,
+387,2025-03-11,869.26,professional_services,outflow,Professional Services,,Vendor_14
+369,2025-03-11,6318.62,revenue,inflow,Revenue,Customer_15,
+375,2025-03-11,5659.48,cogs,outflow,Cogs,,Vendor_10
+384,2025-03-12,931.66,insurance,outflow,Insurance,,Vendor_27
+383,2025-03-12,1515.25,technology,outflow,Technology,,Vendor_4
+382,2025-03-12,1515.25,technology,outflow,Technology,,Vendor_19
+366,2025-03-12,6318.62,revenue,inflow,Revenue,Customer_6,
+365,2025-03-12,6318.62,revenue,inflow,Revenue,Customer_39,
+390,2025-03-13,484.53,office_supplies,outflow,Office Supplies,,Vendor_11
+379,2025-03-13,7678.66,rent,outflow,Rent,,Vendor_24
+391,2025-03-13,1632.06,other_expenses,outflow,Other Expenses,,Vendor_5
+392,2025-03-14,1632.06,other_expenses,outflow,Other Expenses,,Vendor_8
+376,2025-03-14,5659.48,cogs,outflow,Cogs,,Vendor_27
+378,2025-03-14,15332.72,payroll,outflow,Payroll,,Vendor_15
+380,2025-03-14,2321.35,marketing,outflow,Marketing,,Vendor_29
+388,2025-03-14,727.76,travel,outflow,Travel,,Vendor_8
+372,2025-03-14,268.46,investment_income,inflow,Investment Income,Customer_38,
+389,2025-03-15,727.76,travel,outflow,Travel,,Vendor_18
+367,2025-03-15,6318.62,revenue,inflow,Revenue,Customer_3,
+377,2025-03-15,15332.72,payroll,outflow,Payroll,,Vendor_6
+385,2025-03-15,696.35,utilities,outflow,Utilities,,Vendor_10
+386,2025-03-16,869.26,professional_services,outflow,Professional Services,,Vendor_15
+368,2025-03-16,6318.62,revenue,inflow,Revenue,Customer_8,
+381,2025-03-16,2321.35,marketing,outflow,Marketing,,Vendor_4
+370,2025-03-16,6318.62,revenue,inflow,Revenue,Customer_29,
+374,2025-03-16,1004.5,other_income,inflow,Other Income,Customer_33,
+409,2025-03-17,239.57,office_supplies,outflow,Office Supplies,,Vendor_17
+399,2025-03-17,12192.1,cogs,outflow,Cogs,,Vendor_1
+405,2025-03-18,869.33,utilities,outflow,Utilities,,Vendor_27
+398,2025-03-18,455.57,other_income,inflow,Other Income,Customer_46,
+394,2025-03-18,16428.28,revenue,inflow,Revenue,Customer_9,
+406,2025-03-19,2035.44,professional_services,outflow,Professional Services,,Vendor_27
+393,2025-03-20,16428.28,revenue,inflow,Revenue,Customer_31,
+404,2025-03-20,2602.57,technology,outflow,Technology,,Vendor_25
+402,2025-03-20,2550.57,marketing,outflow,Marketing,,Vendor_25
+397,2025-03-21,455.57,other_income,inflow,Other Income,Customer_21,
+403,2025-03-21,2550.57,marketing,outflow,Marketing,,Vendor_26
+395,2025-03-22,16428.28,revenue,inflow,Revenue,Customer_29,
+407,2025-03-22,1367.61,travel,outflow,Travel,,Vendor_24
+408,2025-03-22,239.57,office_supplies,outflow,Office Supplies,,Vendor_21
+410,2025-03-22,3101.11,other_expenses,outflow,Other Expenses,,Vendor_26
+396,2025-03-22,391.15,investment_income,inflow,Investment Income,Customer_11,
+400,2025-03-23,16004.09,payroll,outflow,Payroll,,Vendor_19
+401,2025-03-23,16004.09,payroll,outflow,Payroll,,Vendor_21
+411,2025-03-24,5355.72,revenue,inflow,Revenue,Customer_7,
+412,2025-03-24,5355.72,revenue,inflow,Revenue,Customer_20,
+413,2025-03-24,5355.72,revenue,inflow,Revenue,Customer_49,
+422,2025-03-24,6905.62,cogs,outflow,Cogs,,Vendor_14
+416,2025-03-24,5355.72,revenue,inflow,Revenue,Customer_7,
+417,2025-03-24,5355.72,revenue,inflow,Revenue,Customer_32,
+423,2025-03-25,15163.24,payroll,outflow,Payroll,,Vendor_2
+430,2025-03-26,377.51,office_supplies,outflow,Office Supplies,,Vendor_24
+421,2025-03-26,6905.62,cogs,outflow,Cogs,,Vendor_18
+418,2025-03-26,384.95,investment_income,inflow,Investment Income,Customer_19,
+415,2025-03-27,5355.72,revenue,inflow,Revenue,Customer_40,
+414,2025-03-27,5355.72,revenue,inflow,Revenue,Customer_22,
+419,2025-03-28,437.53,other_income,inflow,Other Income,Customer_49,
+429,2025-03-28,1586.57,travel,outflow,Travel,,Vendor_8
+431,2025-03-28,2453.9,other_expenses,outflow,Other Expenses,,Vendor_8
+420,2025-03-28,437.53,other_income,inflow,Other Income,Customer_29,
+424,2025-03-29,15163.24,payroll,outflow,Payroll,,Vendor_28
+427,2025-03-29,677.08,utilities,outflow,Utilities,,Vendor_2
+425,2025-03-30,4650.2,marketing,outflow,Marketing,,Vendor_4
+426,2025-03-30,2438.05,technology,outflow,Technology,,Vendor_7
+428,2025-03-30,1794.32,professional_services,outflow,Professional Services,,Vendor_28
+449,2025-03-31,1100.23,professional_services,outflow,Professional Services,,Vendor_10
+443,2025-03-31,14793.27,payroll,outflow,Payroll,,Vendor_15
+434,2025-04-01,5608.26,revenue,inflow,Revenue,Customer_35,
+452,2025-04-01,2812.6,other_expenses,outflow,Other Expenses,,Vendor_13
+451,2025-04-01,522.39,office_supplies,outflow,Office Supplies,,Vendor_19
+439,2025-04-01,448.98,investment_income,inflow,Investment Income,Customer_7,
+442,2025-04-01,14793.27,payroll,outflow,Payroll,,Vendor_2
+444,2025-04-01,4358.19,marketing,outflow,Marketing,,Vendor_3
+441,2025-04-02,11343.12,cogs,outflow,Cogs,,Vendor_4
+432,2025-04-02,5608.26,revenue,inflow,Revenue,Customer_33,
+448,2025-04-03,1100.23,professional_services,outflow,Professional Services,,Vendor_24
+447,2025-04-03,705.34,utilities,outflow,Utilities,,Vendor_3
+445,2025-04-03,1449.87,technology,outflow,Technology,,Vendor_5
+433,2025-04-03,5608.26,revenue,inflow,Revenue,Customer_47,
+437,2025-04-03,5608.26,revenue,inflow,Revenue,Customer_37,
+446,2025-04-04,1449.87,technology,outflow,Technology,,Vendor_6
+438,2025-04-05,5608.26,revenue,inflow,Revenue,Customer_21,
+450,2025-04-05,1436.14,travel,outflow,Travel,,Vendor_23
+436,2025-04-05,5608.26,revenue,inflow,Revenue,Customer_43,
+435,2025-04-05,5608.26,revenue,inflow,Revenue,Customer_32,
+440,2025-04-06,982.6,other_income,inflow,Other Income,Customer_21,
+463,2025-04-07,8006.03,rent,outflow,Rent,,Vendor_6
+460,2025-04-07,7782.51,cogs,outflow,Cogs,,Vendor_6
+459,2025-04-07,7782.51,cogs,outflow,Cogs,,Vendor_5
+465,2025-04-07,2837.27,marketing,outflow,Marketing,,Vendor_21
+476,2025-04-07,1659.67,other_expenses,outflow,Other Expenses,,Vendor_26
+466,2025-04-07,2710.85,technology,outflow,Technology,,Vendor_26
+457,2025-04-08,557.28,other_income,inflow,Other Income,Customer_21,
+458,2025-04-08,557.28,other_income,inflow,Other Income,Customer_36,
+474,2025-04-08,282.62,office_supplies,outflow,Office Supplies,,Vendor_23
+462,2025-04-08,17631.47,payroll,outflow,Payroll,,Vendor_22
+456,2025-04-08,524.57,investment_income,inflow,Investment Income,Customer_23,
+470,2025-04-09,865.16,professional_services,outflow,Professional Services,,Vendor_26
+473,2025-04-09,282.62,office_supplies,outflow,Office Supplies,,Vendor_22
+469,2025-04-09,402.43,utilities,outflow,Utilities,,Vendor_1
+454,2025-04-09,16633.04,revenue,inflow,Revenue,Customer_46,
+468,2025-04-10,402.43,utilities,outflow,Utilities,,Vendor_22
+472,2025-04-10,1767.72,travel,outflow,Travel,,Vendor_17
+455,2025-04-10,16633.04,revenue,inflow,Revenue,Customer_26,
+464,2025-04-10,2837.27,marketing,outflow,Marketing,,Vendor_13
+471,2025-04-11,865.16,professional_services,outflow,Professional Services,,Vendor_21
+467,2025-04-12,1028.53,insurance,outflow,Insurance,,Vendor_26
+475,2025-04-12,1659.67,other_expenses,outflow,Other Expenses,,Vendor_5
+453,2025-04-12,16633.04,revenue,inflow,Revenue,Customer_22,
+461,2025-04-13,17631.47,payroll,outflow,Payroll,,Vendor_21
+490,2025-04-14,3683.26,technology,outflow,Technology,,Vendor_15
+479,2025-04-14,7044.04,revenue,inflow,Revenue,Customer_45,
+481,2025-04-14,7044.04,revenue,inflow,Revenue,Customer_26,
+483,2025-04-14,431.79,investment_income,inflow,Investment Income,Customer_25,
+494,2025-04-15,550.71,office_supplies,outflow,Office Supplies,,Vendor_9
+484,2025-04-15,562.83,other_income,inflow,Other Income,Customer_25,
+493,2025-04-15,1778.56,travel,outflow,Travel,,Vendor_25
+495,2025-04-15,3675.54,other_expenses,outflow,Other Expenses,,Vendor_16
+482,2025-04-15,7044.04,revenue,inflow,Revenue,Customer_9,
+477,2025-04-16,7044.04,revenue,inflow,Revenue,Customer_35,
+480,2025-04-16,7044.04,revenue,inflow,Revenue,Customer_34,
+478,2025-04-17,7044.04,revenue,inflow,Revenue,Customer_43,
+486,2025-04-17,17597.7,cogs,outflow,Cogs,,Vendor_12
+488,2025-04-17,18525.29,payroll,outflow,Payroll,,Vendor_19
+489,2025-04-18,5841.61,marketing,outflow,Marketing,,Vendor_17
+492,2025-04-19,2296.37,professional_services,outflow,Professional Services,,Vendor_16
+487,2025-04-19,18525.29,payroll,outflow,Payroll,,Vendor_2
+485,2025-04-20,562.83,other_income,inflow,Other Income,Customer_35,
+491,2025-04-20,984.84,utilities,outflow,Utilities,,Vendor_21
+517,2025-04-21,245.02,office_supplies,outflow,Office Supplies,,Vendor_29
+520,2025-04-21,1550.82,other_expenses,outflow,Other Expenses,,Vendor_10
+509,2025-04-21,2840.05,marketing,outflow,Marketing,,Vendor_4
+503,2025-04-22,572.24,other_income,inflow,Other Income,Customer_42,
+497,2025-04-22,15245.04,revenue,inflow,Revenue,Customer_7,
+500,2025-04-22,239.45,investment_income,inflow,Investment Income,Customer_23,
+506,2025-04-22,13261.7,payroll,outflow,Payroll,,Vendor_3
+515,2025-04-23,745.45,travel,outflow,Travel,,Vendor_27
+505,2025-04-23,8269.29,cogs,outflow,Cogs,,Vendor_12
+513,2025-04-23,1196.61,professional_services,outflow,Professional Services,,Vendor_23
+519,2025-04-24,1550.82,other_expenses,outflow,Other Expenses,,Vendor_15
+507,2025-04-25,13261.7,payroll,outflow,Payroll,,Vendor_11
+501,2025-04-25,239.45,investment_income,inflow,Investment Income,Customer_18,
+510,2025-04-25,3490.55,technology,outflow,Technology,,Vendor_18
+499,2025-04-25,15245.04,revenue,inflow,Revenue,Customer_7,
+514,2025-04-25,1196.61,professional_services,outflow,Professional Services,,Vendor_13
+496,2025-04-25,15245.04,revenue,inflow,Revenue,Customer_22,
+511,2025-04-26,404.72,utilities,outflow,Utilities,,Vendor_2
+498,2025-04-26,15245.04,revenue,inflow,Revenue,Customer_15,
+518,2025-04-26,245.02,office_supplies,outflow,Office Supplies,,Vendor_21
+502,2025-04-27,572.24,other_income,inflow,Other Income,Customer_35,
+508,2025-04-27,2840.05,marketing,outflow,Marketing,,Vendor_15
+512,2025-04-27,404.72,utilities,outflow,Utilities,,Vendor_3
+516,2025-04-27,745.45,travel,outflow,Travel,,Vendor_14
+504,2025-04-27,8269.29,cogs,outflow,Cogs,,Vendor_24
+528,2025-04-28,854.22,other_income,inflow,Other Income,Customer_24,
+539,2025-04-28,3720.51,other_expenses,outflow,Other Expenses,,Vendor_3
+525,2025-04-29,7280.72,revenue,inflow,Revenue,Customer_4,
+526,2025-04-29,7280.72,revenue,inflow,Revenue,Customer_37,
+529,2025-04-29,13310.42,cogs,outflow,Cogs,,Vendor_5
+537,2025-04-29,1391.22,travel,outflow,Travel,,Vendor_3
+536,2025-04-29,1182.34,professional_services,outflow,Professional Services,,Vendor_25
+535,2025-04-29,1182.34,professional_services,outflow,Professional Services,,Vendor_11
+523,2025-04-30,7280.72,revenue,inflow,Revenue,Customer_45,
+530,2025-04-30,17457.52,payroll,outflow,Payroll,,Vendor_28
+533,2025-05-01,3745.68,technology,outflow,Technology,,Vendor_4
+521,2025-05-02,7280.72,revenue,inflow,Revenue,Customer_1,
+527,2025-05-02,426.48,investment_income,inflow,Investment Income,Customer_46,
+538,2025-05-02,590.24,office_supplies,outflow,Office Supplies,,Vendor_22
+524,2025-05-03,7280.72,revenue,inflow,Revenue,Customer_30,
+532,2025-05-03,6149.96,marketing,outflow,Marketing,,Vendor_13
+531,2025-05-03,17457.52,payroll,outflow,Payroll,,Vendor_7
+522,2025-05-03,7280.72,revenue,inflow,Revenue,Customer_49,
+534,2025-05-03,983.33,utilities,outflow,Utilities,,Vendor_21
+562,2025-05-05,1354.15,other_expenses,outflow,Other Expenses,,Vendor_13
+558,2025-05-06,807.0,travel,outflow,Travel,,Vendor_8
+553,2025-05-06,1066.63,insurance,outflow,Insurance,,Vendor_18
+546,2025-05-06,425.76,other_income,inflow,Other Income,Customer_11,
+549,2025-05-06,15545.91,payroll,outflow,Payroll,,Vendor_12
+543,2025-05-07,225.33,investment_income,inflow,Investment Income,Customer_38,
+547,2025-05-07,18061.6,cogs,outflow,Cogs,,Vendor_28
+548,2025-05-07,15545.91,payroll,outflow,Payroll,,Vendor_25
+563,2025-05-07,1354.15,other_expenses,outflow,Other Expenses,,Vendor_13
+551,2025-05-07,6133.79,marketing,outflow,Marketing,,Vendor_2
+560,2025-05-07,237.17,office_supplies,outflow,Office Supplies,,Vendor_16
+541,2025-05-07,18114.32,revenue,inflow,Revenue,Customer_18,
+559,2025-05-07,807.0,travel,outflow,Travel,,Vendor_13
+557,2025-05-07,1193.12,professional_services,outflow,Professional Services,,Vendor_26
+561,2025-05-08,237.17,office_supplies,outflow,Office Supplies,,Vendor_1
+556,2025-05-09,1193.12,professional_services,outflow,Professional Services,,Vendor_29
+540,2025-05-09,18114.32,revenue,inflow,Revenue,Customer_42,
+544,2025-05-09,225.33,investment_income,inflow,Investment Income,Customer_47,
+555,2025-05-09,348.34,utilities,outflow,Utilities,,Vendor_13
+554,2025-05-09,348.34,utilities,outflow,Utilities,,Vendor_28
+552,2025-05-10,3023.54,technology,outflow,Technology,,Vendor_8
+542,2025-05-10,18114.32,revenue,inflow,Revenue,Customer_17,
+545,2025-05-10,425.76,other_income,inflow,Other Income,Customer_37,
+550,2025-05-11,7980.42,rent,outflow,Rent,,Vendor_8
+582,2025-05-12,851.64,travel,outflow,Travel,,Vendor_22
+583,2025-05-13,851.64,travel,outflow,Travel,,Vendor_24
+580,2025-05-13,352.57,utilities,outflow,Utilities,,Vendor_4
+577,2025-05-13,1598.07,technology,outflow,Technology,,Vendor_28
+573,2025-05-14,6308.54,cogs,outflow,Cogs,,Vendor_17
+568,2025-05-14,296.17,investment_income,inflow,Investment Income,Customer_30,
+581,2025-05-15,1929.27,professional_services,outflow,Professional Services,,Vendor_22
+586,2025-05-15,3458.22,other_expenses,outflow,Other Expenses,,Vendor_29
+575,2025-05-15,16097.48,payroll,outflow,Payroll,,Vendor_24
+578,2025-05-15,1598.07,technology,outflow,Technology,,Vendor_15
+579,2025-05-15,352.57,utilities,outflow,Utilities,,Vendor_4
+564,2025-05-15,14135.79,revenue,inflow,Revenue,Customer_27,
+571,2025-05-16,419.47,other_income,inflow,Other Income,Customer_12,
+572,2025-05-16,6308.54,cogs,outflow,Cogs,,Vendor_14
+567,2025-05-16,14135.79,revenue,inflow,Revenue,Customer_31,
+585,2025-05-16,214.41,office_supplies,outflow,Office Supplies,,Vendor_12
+566,2025-05-16,14135.79,revenue,inflow,Revenue,Customer_43,
+584,2025-05-17,214.41,office_supplies,outflow,Office Supplies,,Vendor_15
+570,2025-05-17,419.47,other_income,inflow,Other Income,Customer_13,
+565,2025-05-17,14135.79,revenue,inflow,Revenue,Customer_7,
+576,2025-05-17,4461.56,marketing,outflow,Marketing,,Vendor_7
+574,2025-05-18,16097.48,payroll,outflow,Payroll,,Vendor_2
+569,2025-05-18,296.17,investment_income,inflow,Investment Income,Customer_31,
+599,2025-05-19,16723.42,payroll,outflow,Payroll,,Vendor_12
+607,2025-05-19,267.04,office_supplies,outflow,Office Supplies,,Vendor_29
+604,2025-05-19,1848.3,professional_services,outflow,Professional Services,,Vendor_24
+601,2025-05-19,3735.3,technology,outflow,Technology,,Vendor_5
+603,2025-05-20,404.77,utilities,outflow,Utilities,,Vendor_29
+596,2025-05-20,8485.1,cogs,outflow,Cogs,,Vendor_15
+592,2025-05-20,7150.84,revenue,inflow,Revenue,Customer_34,
+591,2025-05-20,7150.84,revenue,inflow,Revenue,Customer_23,
+594,2025-05-21,629.4,investment_income,inflow,Investment Income,Customer_13,
+587,2025-05-21,7150.84,revenue,inflow,Revenue,Customer_33,
+590,2025-05-21,7150.84,revenue,inflow,Revenue,Customer_11,
+608,2025-05-21,3498.51,other_expenses,outflow,Other Expenses,,Vendor_14
+598,2025-05-21,16723.42,payroll,outflow,Payroll,,Vendor_3
+605,2025-05-22,1492.17,travel,outflow,Travel,,Vendor_16
+600,2025-05-23,5735.67,marketing,outflow,Marketing,,Vendor_27
+597,2025-05-24,8485.1,cogs,outflow,Cogs,,Vendor_20
+593,2025-05-24,7150.84,revenue,inflow,Revenue,Customer_34,
+602,2025-05-24,404.77,utilities,outflow,Utilities,,Vendor_15
+588,2025-05-24,7150.84,revenue,inflow,Revenue,Customer_47,
+606,2025-05-24,267.04,office_supplies,outflow,Office Supplies,,Vendor_25
+595,2025-05-25,1198.77,other_income,inflow,Other Income,Customer_29,
+589,2025-05-25,7150.84,revenue,inflow,Revenue,Customer_32,
+621,2025-05-26,2892.78,technology,outflow,Technology,,Vendor_1
+627,2025-05-26,1268.47,other_expenses,outflow,Other Expenses,,Vendor_1
+614,2025-05-26,421.03,investment_income,inflow,Investment Income,Customer_44,
+626,2025-05-26,1268.47,other_expenses,outflow,Other Expenses,,Vendor_2
+619,2025-05-27,2592.57,marketing,outflow,Marketing,,Vendor_14
+617,2025-05-27,14680.17,payroll,outflow,Payroll,,Vendor_24
+625,2025-05-27,465.02,office_supplies,outflow,Office Supplies,,Vendor_8
+618,2025-05-28,14680.17,payroll,outflow,Payroll,,Vendor_13
+623,2025-05-29,1771.38,professional_services,outflow,Professional Services,,Vendor_25
+611,2025-05-29,10646.95,revenue,inflow,Revenue,Customer_3,
+612,2025-05-29,10646.95,revenue,inflow,Revenue,Customer_46,
+609,2025-05-30,10646.95,revenue,inflow,Revenue,Customer_44,
+610,2025-05-30,10646.95,revenue,inflow,Revenue,Customer_24,
+624,2025-05-31,1622.64,travel,outflow,Travel,,Vendor_22
+615,2025-05-31,945.7,other_income,inflow,Other Income,Customer_48,
+616,2025-05-31,15725.79,cogs,outflow,Cogs,,Vendor_22
+622,2025-05-31,978.82,utilities,outflow,Utilities,,Vendor_19
+620,2025-06-01,2592.57,marketing,outflow,Marketing,,Vendor_6
+613,2025-06-01,10646.95,revenue,inflow,Revenue,Customer_25,
+635,2025-06-02,12974.77,payroll,outflow,Payroll,,Vendor_18
+644,2025-06-02,1894.48,professional_services,outflow,Professional Services,,Vendor_13
+649,2025-06-03,1292.22,other_expenses,outflow,Other Expenses,,Vendor_19
+648,2025-06-03,1292.22,other_expenses,outflow,Other Expenses,,Vendor_6
+630,2025-06-03,20251.65,revenue,inflow,Revenue,Customer_38,
+631,2025-06-03,270.58,investment_income,inflow,Investment Income,Customer_15,
+632,2025-06-03,270.58,investment_income,inflow,Investment Income,Customer_42,
+640,2025-06-03,1682.46,technology,outflow,Technology,,Vendor_22
+642,2025-06-04,364.88,utilities,outflow,Utilities,,Vendor_18
+641,2025-06-04,1048.82,insurance,outflow,Insurance,,Vendor_9
+633,2025-06-04,913.68,other_income,inflow,Other Income,Customer_3,
+639,2025-06-05,1682.46,technology,outflow,Technology,,Vendor_6
+636,2025-06-05,12974.77,payroll,outflow,Payroll,,Vendor_8
+637,2025-06-05,8807.92,rent,outflow,Rent,,Vendor_20
+646,2025-06-06,246.27,office_supplies,outflow,Office Supplies,,Vendor_23
+628,2025-06-06,20251.65,revenue,inflow,Revenue,Customer_26,
+647,2025-06-06,246.27,office_supplies,outflow,Office Supplies,,Vendor_23
+634,2025-06-07,18313.03,cogs,outflow,Cogs,,Vendor_9
+643,2025-06-07,364.88,utilities,outflow,Utilities,,Vendor_12
+629,2025-06-07,20251.65,revenue,inflow,Revenue,Customer_39,
+638,2025-06-08,4930.84,marketing,outflow,Marketing,,Vendor_7
+645,2025-06-08,1653.95,travel,outflow,Travel,,Vendor_14
+654,2025-06-09,234.44,investment_income,inflow,Investment Income,Customer_7,
+665,2025-06-10,491.97,utilities,outflow,Utilities,,Vendor_8
+668,2025-06-10,860.19,travel,outflow,Travel,,Vendor_12
+659,2025-06-10,15867.23,payroll,outflow,Payroll,,Vendor_17
+656,2025-06-10,519.99,other_income,inflow,Other Income,Customer_24,
+663,2025-06-10,3538.46,technology,outflow,Technology,,Vendor_19
+652,2025-06-11,15684.89,revenue,inflow,Revenue,Customer_35,
+660,2025-06-11,15867.23,payroll,outflow,Payroll,,Vendor_9
+664,2025-06-11,491.97,utilities,outflow,Utilities,,Vendor_13
+650,2025-06-11,15684.89,revenue,inflow,Revenue,Customer_3,
+666,2025-06-11,2395.33,professional_services,outflow,Professional Services,,Vendor_26
+657,2025-06-12,7682.28,cogs,outflow,Cogs,,Vendor_12
+661,2025-06-12,2877.24,marketing,outflow,Marketing,,Vendor_2
+651,2025-06-12,15684.89,revenue,inflow,Revenue,Customer_10,
+672,2025-06-13,1578.76,other_expenses,outflow,Other Expenses,,Vendor_15
+655,2025-06-13,519.99,other_income,inflow,Other Income,Customer_31,
+670,2025-06-13,250.52,office_supplies,outflow,Office Supplies,,Vendor_6
+658,2025-06-14,7682.28,cogs,outflow,Cogs,,Vendor_20
+667,2025-06-14,860.19,travel,outflow,Travel,,Vendor_23
+671,2025-06-14,1578.76,other_expenses,outflow,Other Expenses,,Vendor_28
+653,2025-06-15,234.44,investment_income,inflow,Investment Income,Customer_15,
+662,2025-06-15,2877.24,marketing,outflow,Marketing,,Vendor_2
+669,2025-06-15,250.52,office_supplies,outflow,Office Supplies,,Vendor_5
+687,2025-06-16,901.6,utilities,outflow,Utilities,,Vendor_17
+692,2025-06-16,3727.23,other_expenses,outflow,Other Expenses,,Vendor_23
+675,2025-06-16,18283.4,revenue,inflow,Revenue,Customer_25,
+686,2025-06-16,1429.49,technology,outflow,Technology,,Vendor_11
+682,2025-06-17,15990.87,payroll,outflow,Payroll,,Vendor_12
+680,2025-06-18,7090.79,cogs,outflow,Cogs,,Vendor_22
+676,2025-06-18,314.07,investment_income,inflow,Investment Income,Customer_37,
+685,2025-06-19,1429.49,technology,outflow,Technology,,Vendor_28
+684,2025-06-19,4756.9,marketing,outflow,Marketing,,Vendor_1
+688,2025-06-19,1144.59,professional_services,outflow,Professional Services,,Vendor_15
+678,2025-06-19,586.7,other_income,inflow,Other Income,Customer_45,
+673,2025-06-19,18283.4,revenue,inflow,Revenue,Customer_2,
+690,2025-06-19,1399.86,travel,outflow,Travel,,Vendor_18
+677,2025-06-20,314.07,investment_income,inflow,Investment Income,Customer_1,
+683,2025-06-21,15990.87,payroll,outflow,Payroll,,Vendor_9
+681,2025-06-21,7090.79,cogs,outflow,Cogs,,Vendor_16
+691,2025-06-22,631.8,office_supplies,outflow,Office Supplies,,Vendor_5
+674,2025-06-22,18283.4,revenue,inflow,Revenue,Customer_6,
+679,2025-06-22,586.7,other_income,inflow,Other Income,Customer_47,
+689,2025-06-22,1144.59,professional_services,outflow,Professional Services,,Vendor_6
+694,2025-06-23,6735.22,revenue,inflow,Revenue,Customer_49,
+713,2025-06-23,931.7,travel,outflow,Travel,,Vendor_19
+700,2025-06-23,492.32,investment_income,inflow,Investment Income,Customer_39,
+705,2025-06-24,18690.47,payroll,outflow,Payroll,,Vendor_21
+709,2025-06-24,454.91,utilities,outflow,Utilities,,Vendor_17
+716,2025-06-24,1339.31,other_expenses,outflow,Other Expenses,,Vendor_18
+710,2025-06-24,454.91,utilities,outflow,Utilities,,Vendor_8
+695,2025-06-25,6735.22,revenue,inflow,Revenue,Customer_14,
+698,2025-06-25,6735.22,revenue,inflow,Revenue,Customer_43,
+701,2025-06-25,1040.43,other_income,inflow,Other Income,Customer_23,
+697,2025-06-26,6735.22,revenue,inflow,Revenue,Customer_24,
+696,2025-06-26,6735.22,revenue,inflow,Revenue,Customer_42,
+703,2025-06-26,8477.55,cogs,outflow,Cogs,,Vendor_16
+704,2025-06-26,18690.47,payroll,outflow,Payroll,,Vendor_23
+712,2025-06-26,931.7,travel,outflow,Travel,,Vendor_1
+711,2025-06-26,2428.31,professional_services,outflow,Professional Services,,Vendor_27
+715,2025-06-27,311.62,office_supplies,outflow,Office Supplies,,Vendor_9
+714,2025-06-27,311.62,office_supplies,outflow,Office Supplies,,Vendor_16
+693,2025-06-27,6735.22,revenue,inflow,Revenue,Customer_5,
+699,2025-06-28,6735.22,revenue,inflow,Revenue,Customer_34,
+717,2025-06-28,1339.31,other_expenses,outflow,Other Expenses,,Vendor_9
+706,2025-06-28,2831.93,marketing,outflow,Marketing,,Vendor_5
+707,2025-06-29,2831.93,marketing,outflow,Marketing,,Vendor_22
+702,2025-06-29,8477.55,cogs,outflow,Cogs,,Vendor_13
+708,2025-06-29,2867.71,technology,outflow,Technology,,Vendor_23
+727,2025-06-30,13504.1,payroll,outflow,Payroll,,Vendor_21
+730,2025-06-30,3246.4,technology,outflow,Technology,,Vendor_17
+733,2025-07-01,439.4,utilities,outflow,Utilities,,Vendor_2
+723,2025-07-01,566.35,other_income,inflow,Other Income,Customer_18,
+739,2025-07-02,3227.42,other_expenses,outflow,Other Expenses,,Vendor_16
+725,2025-07-02,14758.75,cogs,outflow,Cogs,,Vendor_1
+729,2025-07-02,5087.26,marketing,outflow,Marketing,,Vendor_28
+728,2025-07-03,8343.34,rent,outflow,Rent,,Vendor_26
+738,2025-07-04,248.53,office_supplies,outflow,Office Supplies,,Vendor_15
+724,2025-07-04,566.35,other_income,inflow,Other Income,Customer_41,
+721,2025-07-04,223.89,investment_income,inflow,Investment Income,Customer_38,
+719,2025-07-04,20285.57,revenue,inflow,Revenue,Customer_13,
+718,2025-07-04,20285.57,revenue,inflow,Revenue,Customer_9,
+737,2025-07-04,248.53,office_supplies,outflow,Office Supplies,,Vendor_2
+736,2025-07-04,939.93,travel,outflow,Travel,,Vendor_29
+734,2025-07-04,2092.07,professional_services,outflow,Professional Services,,Vendor_26
+735,2025-07-05,939.93,travel,outflow,Travel,,Vendor_28
+722,2025-07-05,223.89,investment_income,inflow,Investment Income,Customer_4,
+732,2025-07-05,439.4,utilities,outflow,Utilities,,Vendor_14
+731,2025-07-05,1055.64,insurance,outflow,Insurance,,Vendor_26
+726,2025-07-05,13504.1,payroll,outflow,Payroll,,Vendor_7
+720,2025-07-06,20285.57,revenue,inflow,Revenue,Customer_41,
+753,2025-07-07,1899.38,technology,outflow,Technology,,Vendor_11
+752,2025-07-08,2744.72,marketing,outflow,Marketing,,Vendor_17
+759,2025-07-08,504.83,office_supplies,outflow,Office Supplies,,Vendor_15
+756,2025-07-08,2376.54,professional_services,outflow,Professional Services,,Vendor_24
+748,2025-07-10,13408.68,cogs,outflow,Cogs,,Vendor_16
+751,2025-07-10,2744.72,marketing,outflow,Marketing,,Vendor_18
+740,2025-07-10,13556.02,revenue,inflow,Revenue,Customer_43,
+745,2025-07-10,281.55,investment_income,inflow,Investment Income,Customer_11,
+746,2025-07-11,506.22,other_income,inflow,Other Income,Customer_13,
+750,2025-07-11,16099.22,payroll,outflow,Payroll,,Vendor_15
+741,2025-07-11,13556.02,revenue,inflow,Revenue,Customer_21,
+758,2025-07-12,945.29,travel,outflow,Travel,,Vendor_1
+757,2025-07-12,945.29,travel,outflow,Travel,,Vendor_7
+747,2025-07-12,506.22,other_income,inflow,Other Income,Customer_19,
+749,2025-07-12,16099.22,payroll,outflow,Payroll,,Vendor_27
+760,2025-07-12,3766.44,other_expenses,outflow,Other Expenses,,Vendor_22
+744,2025-07-13,281.55,investment_income,inflow,Investment Income,Customer_25,
+754,2025-07-13,1899.38,technology,outflow,Technology,,Vendor_12
+755,2025-07-13,859.33,utilities,outflow,Utilities,,Vendor_24
+743,2025-07-13,13556.02,revenue,inflow,Revenue,Customer_16,
+742,2025-07-13,13556.02,revenue,inflow,Revenue,Customer_43,
+776,2025-07-14,442.26,utilities,outflow,Utilities,,Vendor_2
+779,2025-07-14,1563.42,travel,outflow,Travel,,Vendor_11
+765,2025-07-14,8932.1,revenue,inflow,Revenue,Customer_26,
+762,2025-07-14,8932.1,revenue,inflow,Revenue,Customer_15,
+761,2025-07-14,8932.1,revenue,inflow,Revenue,Customer_26,
+764,2025-07-15,8932.1,revenue,inflow,Revenue,Customer_42,
+772,2025-07-15,17494.94,payroll,outflow,Payroll,,Vendor_1
+778,2025-07-15,2297.09,professional_services,outflow,Professional Services,,Vendor_22
+770,2025-07-15,568.39,other_income,inflow,Other Income,Customer_33,
+775,2025-07-15,2820.52,technology,outflow,Technology,,Vendor_9
+763,2025-07-15,8932.1,revenue,inflow,Revenue,Customer_24,
+777,2025-07-16,442.26,utilities,outflow,Utilities,,Vendor_7
+774,2025-07-16,4311.91,marketing,outflow,Marketing,,Vendor_28
+769,2025-07-16,568.39,other_income,inflow,Other Income,Customer_36,
+767,2025-07-16,245.26,investment_income,inflow,Investment Income,Customer_36,
+766,2025-07-16,8932.1,revenue,inflow,Revenue,Customer_37,
+768,2025-07-17,245.26,investment_income,inflow,Investment Income,Customer_39,
+781,2025-07-17,318.68,office_supplies,outflow,Office Supplies,,Vendor_26
+783,2025-07-19,1494.03,other_expenses,outflow,Other Expenses,,Vendor_4
+780,2025-07-19,318.68,office_supplies,outflow,Office Supplies,,Vendor_19
+782,2025-07-20,1494.03,other_expenses,outflow,Other Expenses,,Vendor_13
+773,2025-07-20,17494.94,payroll,outflow,Payroll,,Vendor_21
+771,2025-07-20,15494.6,cogs,outflow,Cogs,,Vendor_17
+798,2025-07-21,899.94,utilities,outflow,Utilities,,Vendor_23
+785,2025-07-21,14840.26,revenue,inflow,Revenue,Customer_8,
+786,2025-07-21,14840.26,revenue,inflow,Revenue,Customer_6,
+797,2025-07-22,1578.68,technology,outflow,Technology,,Vendor_4
+795,2025-07-22,5043.98,marketing,outflow,Marketing,,Vendor_23
+794,2025-07-22,15733.34,payroll,outflow,Payroll,,Vendor_23
+791,2025-07-23,9221.79,cogs,outflow,Cogs,,Vendor_22
+789,2025-07-23,569.86,other_income,inflow,Other Income,Customer_32,
+792,2025-07-24,9221.79,cogs,outflow,Cogs,,Vendor_29
+788,2025-07-24,251.35,investment_income,inflow,Investment Income,Customer_2,
+784,2025-07-24,14840.26,revenue,inflow,Revenue,Customer_3,
+801,2025-07-24,640.78,travel,outflow,Travel,,Vendor_8
+802,2025-07-24,640.78,travel,outflow,Travel,,Vendor_3
+805,2025-07-24,1904.61,other_expenses,outflow,Other Expenses,,Vendor_1
+787,2025-07-25,251.35,investment_income,inflow,Investment Income,Customer_49,
+804,2025-07-25,1904.61,other_expenses,outflow,Other Expenses,,Vendor_20
+790,2025-07-25,569.86,other_income,inflow,Other Income,Customer_8,
+793,2025-07-26,15733.34,payroll,outflow,Payroll,,Vendor_6
+796,2025-07-26,1578.68,technology,outflow,Technology,,Vendor_12
+799,2025-07-26,1082.6,professional_services,outflow,Professional Services,,Vendor_25
+800,2025-07-27,1082.6,professional_services,outflow,Professional Services,,Vendor_16
+803,2025-07-27,624.84,office_supplies,outflow,Office Supplies,,Vendor_28
+831,2025-07-28,1836.09,other_expenses,outflow,Other Expenses,,Vendor_14
+809,2025-07-28,8682.26,revenue,inflow,Revenue,Customer_16,
+829,2025-07-28,275.12,office_supplies,outflow,Office Supplies,,Vendor_29
+828,2025-07-28,275.12,office_supplies,outflow,Office Supplies,,Vendor_2
+813,2025-07-29,452.85,investment_income,inflow,Investment Income,Customer_45,
+814,2025-07-29,1009.41,other_income,inflow,Other Income,Customer_27,
+821,2025-07-29,3209.17,technology,outflow,Technology,,Vendor_6
+826,2025-07-30,697.2,travel,outflow,Travel,,Vendor_18
+815,2025-07-30,14364.4,cogs,outflow,Cogs,,Vendor_3
+818,2025-07-30,8567.26,rent,outflow,Rent,,Vendor_22
+822,2025-07-30,1103.17,insurance,outflow,Insurance,,Vendor_24
+806,2025-07-31,8682.26,revenue,inflow,Revenue,Customer_6,
+810,2025-07-31,8682.26,revenue,inflow,Revenue,Customer_38,
+811,2025-07-31,8682.26,revenue,inflow,Revenue,Customer_34,
+817,2025-07-31,15377.56,payroll,outflow,Payroll,,Vendor_18
+819,2025-07-31,2669.83,marketing,outflow,Marketing,,Vendor_5
+820,2025-07-31,2669.83,marketing,outflow,Marketing,,Vendor_10
+825,2025-08-01,2411.1,professional_services,outflow,Professional Services,,Vendor_3
+812,2025-08-01,8682.26,revenue,inflow,Revenue,Customer_14,
+827,2025-08-02,697.2,travel,outflow,Travel,,Vendor_20
+807,2025-08-02,8682.26,revenue,inflow,Revenue,Customer_18,
+823,2025-08-02,433.25,utilities,outflow,Utilities,,Vendor_3
+824,2025-08-03,433.25,utilities,outflow,Utilities,,Vendor_20
+816,2025-08-03,15377.56,payroll,outflow,Payroll,,Vendor_26
+808,2025-08-03,8682.26,revenue,inflow,Revenue,Customer_32,
+830,2025-08-03,1836.09,other_expenses,outflow,Other Expenses,,Vendor_14
+853,2025-08-05,3248.22,other_expenses,outflow,Other Expenses,,Vendor_5
+847,2025-08-06,2952.98,technology,outflow,Technology,,Vendor_9
+833,2025-08-06,8869.95,revenue,inflow,Revenue,Customer_41,
+845,2025-08-06,2369.13,marketing,outflow,Marketing,,Vendor_18
+843,2025-08-06,17032.64,payroll,outflow,Payroll,,Vendor_19
+852,2025-08-07,475.76,office_supplies,outflow,Office Supplies,,Vendor_4
+837,2025-08-07,8869.95,revenue,inflow,Revenue,Customer_25,
+850,2025-08-07,2306.51,professional_services,outflow,Professional Services,,Vendor_4
+839,2025-08-07,222.8,investment_income,inflow,Investment Income,Customer_13,
+832,2025-08-07,8869.95,revenue,inflow,Revenue,Customer_3,
+841,2025-08-07,1232.3,other_income,inflow,Other Income,Customer_6,
+851,2025-08-08,1925.95,travel,outflow,Travel,,Vendor_7
+846,2025-08-08,2369.13,marketing,outflow,Marketing,,Vendor_24
+836,2025-08-08,8869.95,revenue,inflow,Revenue,Customer_34,
+835,2025-08-08,8869.95,revenue,inflow,Revenue,Customer_34,
+844,2025-08-08,17032.64,payroll,outflow,Payroll,,Vendor_19
+842,2025-08-09,12855.98,cogs,outflow,Cogs,,Vendor_2
+848,2025-08-09,363.57,utilities,outflow,Utilities,,Vendor_19
+834,2025-08-09,8869.95,revenue,inflow,Revenue,Customer_25,
+840,2025-08-10,222.8,investment_income,inflow,Investment Income,Customer_14,
+849,2025-08-10,363.57,utilities,outflow,Utilities,,Vendor_16
+838,2025-08-10,8869.95,revenue,inflow,Revenue,Customer_4,
+867,2025-08-11,18037.59,payroll,outflow,Payroll,,Vendor_3
+874,2025-08-11,1902.78,travel,outflow,Travel,,Vendor_9
+864,2025-08-12,7479.88,cogs,outflow,Cogs,,Vendor_13
+862,2025-08-12,259.53,investment_income,inflow,Investment Income,Customer_23,
+876,2025-08-12,288.46,office_supplies,outflow,Office Supplies,,Vendor_18
+878,2025-08-13,1312.43,other_expenses,outflow,Other Expenses,,Vendor_23
+855,2025-08-13,8850.14,revenue,inflow,Revenue,Customer_28,
+854,2025-08-13,8850.14,revenue,inflow,Revenue,Customer_7,
+870,2025-08-14,1383.78,technology,outflow,Technology,,Vendor_16
+868,2025-08-14,5678.92,marketing,outflow,Marketing,,Vendor_23
+869,2025-08-14,1383.78,technology,outflow,Technology,,Vendor_2
+877,2025-08-15,1312.43,other_expenses,outflow,Other Expenses,,Vendor_28
+873,2025-08-15,1227.41,professional_services,outflow,Professional Services,,Vendor_17
+872,2025-08-15,1227.41,professional_services,outflow,Professional Services,,Vendor_10
+871,2025-08-15,850.23,utilities,outflow,Utilities,,Vendor_20
+875,2025-08-15,288.46,office_supplies,outflow,Office Supplies,,Vendor_1
+859,2025-08-15,8850.14,revenue,inflow,Revenue,Customer_2,
+865,2025-08-15,7479.88,cogs,outflow,Cogs,,Vendor_21
+863,2025-08-15,917.31,other_income,inflow,Other Income,Customer_1,
+858,2025-08-15,8850.14,revenue,inflow,Revenue,Customer_22,
+866,2025-08-15,18037.59,payroll,outflow,Payroll,,Vendor_4
+860,2025-08-16,8850.14,revenue,inflow,Revenue,Customer_27,
+856,2025-08-16,8850.14,revenue,inflow,Revenue,Customer_14,
+861,2025-08-17,259.53,investment_income,inflow,Investment Income,Customer_21,
+857,2025-08-17,8850.14,revenue,inflow,Revenue,Customer_37,
+893,2025-08-18,2552.36,professional_services,outflow,Professional Services,,Vendor_9
+880,2025-08-18,11435.22,revenue,inflow,Revenue,Customer_15,
+881,2025-08-18,11435.22,revenue,inflow,Revenue,Customer_23,
+896,2025-08-18,596.55,office_supplies,outflow,Office Supplies,,Vendor_26
+891,2025-08-19,486.85,utilities,outflow,Utilities,,Vendor_6
+890,2025-08-19,2818.9,technology,outflow,Technology,,Vendor_5
+897,2025-08-19,3196.95,other_expenses,outflow,Other Expenses,,Vendor_10
+888,2025-08-19,13129.43,payroll,outflow,Payroll,,Vendor_14
+894,2025-08-20,768.18,travel,outflow,Travel,,Vendor_17
+886,2025-08-20,17150.78,cogs,outflow,Cogs,,Vendor_24
+895,2025-08-21,768.18,travel,outflow,Travel,,Vendor_4
+887,2025-08-21,13129.43,payroll,outflow,Payroll,,Vendor_21
+884,2025-08-22,642.48,investment_income,inflow,Investment Income,Customer_8,
+883,2025-08-22,11435.22,revenue,inflow,Revenue,Customer_32,
+882,2025-08-22,11435.22,revenue,inflow,Revenue,Customer_19,
+879,2025-08-23,11435.22,revenue,inflow,Revenue,Customer_8,
+889,2025-08-24,6387.11,marketing,outflow,Marketing,,Vendor_19
+885,2025-08-24,877.92,other_income,inflow,Other Income,Customer_43,
+892,2025-08-24,486.85,utilities,outflow,Utilities,,Vendor_16
+905,2025-08-25,251.81,investment_income,inflow,Investment Income,Customer_40,
+899,2025-08-26,10046.67,revenue,inflow,Revenue,Customer_13,
+904,2025-08-26,251.81,investment_income,inflow,Investment Income,Customer_9,
+906,2025-08-26,523.83,other_income,inflow,Other Income,Customer_25,
+907,2025-08-26,523.83,other_income,inflow,Other Income,Customer_22,
+911,2025-08-26,13005.23,payroll,outflow,Payroll,,Vendor_23
+898,2025-08-27,10046.67,revenue,inflow,Revenue,Customer_40,
+924,2025-08-27,1673.76,other_expenses,outflow,Other Expenses,,Vendor_23
+923,2025-08-27,1673.76,other_expenses,outflow,Other Expenses,,Vendor_22
+922,2025-08-27,231.61,office_supplies,outflow,Office Supplies,,Vendor_5
+903,2025-08-27,10046.67,revenue,inflow,Revenue,Customer_10,
+909,2025-08-27,7346.09,cogs,outflow,Cogs,,Vendor_14
+917,2025-08-28,514.28,utilities,outflow,Utilities,,Vendor_29
+912,2025-08-28,8942.14,rent,outflow,Rent,,Vendor_9
+902,2025-08-28,10046.67,revenue,inflow,Revenue,Customer_34,
+913,2025-08-29,5479.42,marketing,outflow,Marketing,,Vendor_21
+908,2025-08-29,7346.09,cogs,outflow,Cogs,,Vendor_12
+918,2025-08-29,514.28,utilities,outflow,Utilities,,Vendor_18
+921,2025-08-29,231.61,office_supplies,outflow,Office Supplies,,Vendor_22
+900,2025-08-29,10046.67,revenue,inflow,Revenue,Customer_32,
+910,2025-08-29,13005.23,payroll,outflow,Payroll,,Vendor_3
+914,2025-08-30,1924.5,technology,outflow,Technology,,Vendor_7
+916,2025-08-30,1028.88,insurance,outflow,Insurance,,Vendor_22
+915,2025-08-31,1924.5,technology,outflow,Technology,,Vendor_12
+919,2025-08-31,1816.07,professional_services,outflow,Professional Services,,Vendor_20
+920,2025-08-31,1820.72,travel,outflow,Travel,,Vendor_19
+901,2025-08-31,10046.67,revenue,inflow,Revenue,Customer_16,
+948,2025-09-01,233.77,office_supplies,outflow,Office Supplies,,Vendor_13
+928,2025-09-01,9669.65,revenue,inflow,Revenue,Customer_44,
+930,2025-09-01,9669.65,revenue,inflow,Revenue,Customer_4,
+931,2025-09-02,226.47,investment_income,inflow,Investment Income,Customer_34,
+947,2025-09-02,780.85,travel,outflow,Travel,,Vendor_6
+937,2025-09-02,12980.01,payroll,outflow,Payroll,,Vendor_26
+927,2025-09-02,9669.65,revenue,inflow,Revenue,Customer_16,
+951,2025-09-03,1675.36,other_expenses,outflow,Other Expenses,,Vendor_24
+932,2025-09-03,226.47,investment_income,inflow,Investment Income,Customer_25,
+934,2025-09-03,551.31,other_income,inflow,Other Income,Customer_27,
+944,2025-09-03,1199.85,professional_services,outflow,Professional Services,,Vendor_26
+949,2025-09-04,233.77,office_supplies,outflow,Office Supplies,,Vendor_17
+936,2025-09-04,8699.44,cogs,outflow,Cogs,,Vendor_4
+940,2025-09-04,2376.14,marketing,outflow,Marketing,,Vendor_11
+943,2025-09-04,517.21,utilities,outflow,Utilities,,Vendor_20
+926,2025-09-05,9669.65,revenue,inflow,Revenue,Customer_47,
+950,2025-09-05,1675.36,other_expenses,outflow,Other Expenses,,Vendor_14
+945,2025-09-05,1199.85,professional_services,outflow,Professional Services,,Vendor_6
+939,2025-09-05,2376.14,marketing,outflow,Marketing,,Vendor_25
+935,2025-09-05,8699.44,cogs,outflow,Cogs,,Vendor_9
+929,2025-09-05,9669.65,revenue,inflow,Revenue,Customer_3,
+938,2025-09-06,12980.01,payroll,outflow,Payroll,,Vendor_12
+933,2025-09-06,551.31,other_income,inflow,Other Income,Customer_39,
+941,2025-09-07,3568.3,technology,outflow,Technology,,Vendor_6
+946,2025-09-07,780.85,travel,outflow,Travel,,Vendor_21
+925,2025-09-07,9669.65,revenue,inflow,Revenue,Customer_25,
+942,2025-09-07,517.21,utilities,outflow,Utilities,,Vendor_29
+966,2025-09-08,3804.02,technology,outflow,Technology,,Vendor_17
+970,2025-09-08,1913.16,travel,outflow,Travel,,Vendor_20
+974,2025-09-08,1676.8,other_expenses,outflow,Other Expenses,,Vendor_27
+963,2025-09-08,13762.8,payroll,outflow,Payroll,,Vendor_18
+962,2025-09-08,13762.8,payroll,outflow,Payroll,,Vendor_23
+955,2025-09-09,11370.43,revenue,inflow,Revenue,Customer_19,
+954,2025-09-09,11370.43,revenue,inflow,Revenue,Customer_30,
+971,2025-09-10,255.3,office_supplies,outflow,Office Supplies,,Vendor_13
+972,2025-09-10,255.3,office_supplies,outflow,Office Supplies,,Vendor_17
+965,2025-09-10,2229.13,marketing,outflow,Marketing,,Vendor_25
+964,2025-09-10,2229.13,marketing,outflow,Marketing,,Vendor_15
+967,2025-09-10,863.29,utilities,outflow,Utilities,,Vendor_15
+960,2025-09-10,7164.99,cogs,outflow,Cogs,,Vendor_16
+956,2025-09-10,245.32,investment_income,inflow,Investment Income,Customer_49,
+968,2025-09-11,1041.82,professional_services,outflow,Professional Services,,Vendor_11
+958,2025-09-12,464.51,other_income,inflow,Other Income,Customer_12,
+973,2025-09-12,1676.8,other_expenses,outflow,Other Expenses,,Vendor_6
+961,2025-09-12,7164.99,cogs,outflow,Cogs,,Vendor_4
+959,2025-09-13,464.51,other_income,inflow,Other Income,Customer_38,
+953,2025-09-13,11370.43,revenue,inflow,Revenue,Customer_24,
+969,2025-09-14,1041.82,professional_services,outflow,Professional Services,,Vendor_9
+957,2025-09-14,245.32,investment_income,inflow,Investment Income,Customer_46,
+952,2025-09-14,11370.43,revenue,inflow,Revenue,Customer_4,
+987,2025-09-15,17873.36,payroll,outflow,Payroll,,Vendor_4
+992,2025-09-15,1810.56,technology,outflow,Technology,,Vendor_13
+999,2025-09-16,1907.81,other_expenses,outflow,Other Expenses,,Vendor_12
+977,2025-09-16,7110.89,revenue,inflow,Revenue,Customer_5,
+994,2025-09-16,373.55,utilities,outflow,Utilities,,Vendor_26
+993,2025-09-17,373.55,utilities,outflow,Utilities,,Vendor_20
+976,2025-09-17,7110.89,revenue,inflow,Revenue,Customer_46,
+997,2025-09-17,218.9,office_supplies,outflow,Office Supplies,,Vendor_20
+975,2025-09-17,7110.89,revenue,inflow,Revenue,Customer_42,
+995,2025-09-18,2219.08,professional_services,outflow,Professional Services,,Vendor_18
+986,2025-09-18,6682.2,cogs,outflow,Cogs,,Vendor_25
+984,2025-09-18,1055.34,other_income,inflow,Other Income,Customer_6,
+979,2025-09-18,7110.89,revenue,inflow,Revenue,Customer_49,
+985,2025-09-18,6682.2,cogs,outflow,Cogs,,Vendor_12
+988,2025-09-19,17873.36,payroll,outflow,Payroll,,Vendor_24
+981,2025-09-19,7110.89,revenue,inflow,Revenue,Customer_36,
+980,2025-09-19,7110.89,revenue,inflow,Revenue,Customer_10,
+978,2025-09-19,7110.89,revenue,inflow,Revenue,Customer_37,
+991,2025-09-20,1810.56,technology,outflow,Technology,,Vendor_10
+982,2025-09-20,230.99,investment_income,inflow,Investment Income,Customer_39,
+996,2025-09-20,1566.28,travel,outflow,Travel,,Vendor_15
+1000,2025-09-20,1907.81,other_expenses,outflow,Other Expenses,,Vendor_25
+983,2025-09-21,230.99,investment_income,inflow,Investment Income,Customer_35,
+990,2025-09-21,2470.91,marketing,outflow,Marketing,,Vendor_28
+998,2025-09-21,218.9,office_supplies,outflow,Office Supplies,,Vendor_16
+989,2025-09-21,2470.91,marketing,outflow,Marketing,,Vendor_3
+1004,2025-09-22,7730.15,revenue,inflow,Revenue,Customer_19,
+1007,2025-09-22,7730.15,revenue,inflow,Revenue,Customer_41,
+1013,2025-09-22,18167.52,payroll,outflow,Payroll,,Vendor_17
+1010,2025-09-22,453.12,other_income,inflow,Other Income,Customer_24,
+1022,2025-09-22,1780.47,professional_services,outflow,Professional Services,,Vendor_7
+1017,2025-09-23,1854.68,technology,outflow,Technology,,Vendor_2
+1016,2025-09-23,5268.26,marketing,outflow,Marketing,,Vendor_22
+1015,2025-09-23,8439.3,rent,outflow,Rent,,Vendor_1
+1014,2025-09-23,18167.52,payroll,outflow,Payroll,,Vendor_6
+1021,2025-09-23,483.65,utilities,outflow,Utilities,,Vendor_3
+1003,2025-09-23,7730.15,revenue,inflow,Revenue,Customer_37,
+1001,2025-09-23,7730.15,revenue,inflow,Revenue,Customer_5,
+1005,2025-09-24,7730.15,revenue,inflow,Revenue,Customer_25,
+1018,2025-09-24,1854.68,technology,outflow,Technology,,Vendor_29
+1002,2025-09-24,7730.15,revenue,inflow,Revenue,Customer_23,
+1012,2025-09-24,6881.13,cogs,outflow,Cogs,,Vendor_9
+1011,2025-09-25,6881.13,cogs,outflow,Cogs,,Vendor_26
+1008,2025-09-25,438.63,investment_income,inflow,Investment Income,Customer_42,
+1019,2025-09-25,1111.65,insurance,outflow,Insurance,,Vendor_24
+1020,2025-09-25,483.65,utilities,outflow,Utilities,,Vendor_27
+1027,2025-09-26,3736.17,other_expenses,outflow,Other Expenses,,Vendor_9
+1006,2025-09-26,7730.15,revenue,inflow,Revenue,Customer_12,
+1025,2025-09-26,273.26,office_supplies,outflow,Office Supplies,,Vendor_15
+1026,2025-09-27,273.26,office_supplies,outflow,Office Supplies,,Vendor_20
+1024,2025-09-27,934.55,travel,outflow,Travel,,Vendor_20
+1023,2025-09-28,934.55,travel,outflow,Travel,,Vendor_4
+1009,2025-09-28,453.12,other_income,inflow,Other Income,Customer_33,
+1050,2025-09-29,304.62,office_supplies,outflow,Office Supplies,,Vendor_13
+1030,2025-09-29,9272.45,revenue,inflow,Revenue,Customer_3,
+1037,2025-09-29,8225.08,cogs,outflow,Cogs,,Vendor_4
+1028,2025-09-30,9272.45,revenue,inflow,Revenue,Customer_49,
+1032,2025-09-30,9272.45,revenue,inflow,Revenue,Customer_35,
+1048,2025-10-01,795.45,travel,outflow,Travel,,Vendor_9
+1046,2025-10-01,883.74,professional_services,outflow,Professional Services,,Vendor_5
+1034,2025-10-01,577.34,investment_income,inflow,Investment Income,Customer_43,
+1035,2025-10-01,1206.32,other_income,inflow,Other Income,Customer_12,
+1043,2025-10-01,1412.09,technology,outflow,Technology,,Vendor_27
+1042,2025-10-01,1412.09,technology,outflow,Technology,,Vendor_13
+1044,2025-10-02,1037.35,utilities,outflow,Utilities,,Vendor_1
+1040,2025-10-02,2752.23,marketing,outflow,Marketing,,Vendor_20
+1036,2025-10-02,8225.08,cogs,outflow,Cogs,,Vendor_28
+1031,2025-10-02,9272.45,revenue,inflow,Revenue,Customer_33,
+1045,2025-10-03,883.74,professional_services,outflow,Professional Services,,Vendor_28
+1041,2025-10-04,2752.23,marketing,outflow,Marketing,,Vendor_12
+1047,2025-10-04,795.45,travel,outflow,Travel,,Vendor_22
+1051,2025-10-04,3890.82,other_expenses,outflow,Other Expenses,,Vendor_13
+1033,2025-10-04,9272.45,revenue,inflow,Revenue,Customer_39,
+1038,2025-10-05,14840.65,payroll,outflow,Payroll,,Vendor_9
+1029,2025-10-05,9272.45,revenue,inflow,Revenue,Customer_2,
+1049,2025-10-05,304.62,office_supplies,outflow,Office Supplies,,Vendor_16
+1039,2025-10-05,14840.65,payroll,outflow,Payroll,,Vendor_15
+1068,2025-10-07,940.48,utilities,outflow,Utilities,,Vendor_26
+1064,2025-10-07,17707.97,payroll,outflow,Payroll,,Vendor_22
+1072,2025-10-08,2009.91,other_expenses,outflow,Other Expenses,,Vendor_8
+1053,2025-10-08,9692.62,revenue,inflow,Revenue,Customer_27,
+1055,2025-10-08,9692.62,revenue,inflow,Revenue,Customer_33,
+1065,2025-10-08,17707.97,payroll,outflow,Payroll,,Vendor_12
+1061,2025-10-08,715.53,other_income,inflow,Other Income,Customer_44,
+1063,2025-10-09,11220.76,cogs,outflow,Cogs,,Vendor_9
+1071,2025-10-09,564.27,office_supplies,outflow,Office Supplies,,Vendor_29
+1066,2025-10-09,5441.93,marketing,outflow,Marketing,,Vendor_24
+1073,2025-10-09,2009.91,other_expenses,outflow,Other Expenses,,Vendor_15
+1057,2025-10-09,9692.62,revenue,inflow,Revenue,Customer_34,
+1056,2025-10-09,9692.62,revenue,inflow,Revenue,Customer_25,
+1059,2025-10-10,276.6,investment_income,inflow,Investment Income,Customer_28,
+1058,2025-10-10,276.6,investment_income,inflow,Investment Income,Customer_35,
+1067,2025-10-10,3135.1,technology,outflow,Technology,,Vendor_3
+1054,2025-10-10,9692.62,revenue,inflow,Revenue,Customer_25,
+1060,2025-10-11,715.53,other_income,inflow,Other Income,Customer_6,
+1069,2025-10-11,2617.4,professional_services,outflow,Professional Services,,Vendor_17
+1070,2025-10-11,2134.04,travel,outflow,Travel,,Vendor_15
+1052,2025-10-11,9692.62,revenue,inflow,Revenue,Customer_31,
+1062,2025-10-12,11220.76,cogs,outflow,Cogs,,Vendor_12
+1082,2025-10-14,20979.31,payroll,outflow,Payroll,,Vendor_19
+1083,2025-10-15,6697.89,marketing,outflow,Marketing,,Vendor_27
+1078,2025-10-15,1183.91,other_income,inflow,Other Income,Customer_46,
+1087,2025-10-15,477.58,utilities,outflow,Utilities,,Vendor_20
+1091,2025-10-15,364.99,office_supplies,outflow,Office Supplies,,Vendor_9
+1094,2025-10-15,2243.4,other_expenses,outflow,Other Expenses,,Vendor_28
+1090,2025-10-15,1600.62,travel,outflow,Travel,,Vendor_14
+1079,2025-10-16,10379.82,cogs,outflow,Cogs,,Vendor_17
+1074,2025-10-16,18181.17,revenue,inflow,Revenue,Customer_1,
+1085,2025-10-16,1797.97,technology,outflow,Technology,,Vendor_21
+1092,2025-10-16,364.99,office_supplies,outflow,Office Supplies,,Vendor_20
+1081,2025-10-17,20979.31,payroll,outflow,Payroll,,Vendor_15
+1089,2025-10-18,1012.18,professional_services,outflow,Professional Services,,Vendor_23
+1088,2025-10-18,1012.18,professional_services,outflow,Professional Services,,Vendor_26
+1084,2025-10-18,1797.97,technology,outflow,Technology,,Vendor_14
+1080,2025-10-19,10379.82,cogs,outflow,Cogs,,Vendor_9
+1077,2025-10-19,675.66,investment_income,inflow,Investment Income,Customer_38,
+1076,2025-10-19,18181.17,revenue,inflow,Revenue,Customer_3,
+1075,2025-10-19,18181.17,revenue,inflow,Revenue,Customer_23,
+1093,2025-10-19,2243.4,other_expenses,outflow,Other Expenses,,Vendor_9
+1086,2025-10-19,477.58,utilities,outflow,Utilities,,Vendor_14
+1104,2025-10-20,10842.77,cogs,outflow,Cogs,,Vendor_29
+1102,2025-10-20,577.81,other_income,inflow,Other Income,Customer_4,
+1099,2025-10-20,11847.18,revenue,inflow,Revenue,Customer_33,
+1113,2025-10-20,1286.0,insurance,outflow,Insurance,,Vendor_29
+1114,2025-10-20,817.06,utilities,outflow,Utilities,,Vendor_2
+1098,2025-10-20,11847.18,revenue,inflow,Revenue,Customer_30,
+1118,2025-10-21,537.01,office_supplies,outflow,Office Supplies,,Vendor_20
+1109,2025-10-21,2848.68,marketing,outflow,Marketing,,Vendor_21
+1101,2025-10-22,709.61,investment_income,inflow,Investment Income,Customer_41,
+1095,2025-10-22,11847.18,revenue,inflow,Revenue,Customer_47,
+1103,2025-10-22,577.81,other_income,inflow,Other Income,Customer_4,
+1108,2025-10-23,9833.46,rent,outflow,Rent,,Vendor_3
+1112,2025-10-23,1555.35,technology,outflow,Technology,,Vendor_1
+1100,2025-10-23,11847.18,revenue,inflow,Revenue,Customer_25,
+1096,2025-10-23,11847.18,revenue,inflow,Revenue,Customer_14,
+1111,2025-10-24,1555.35,technology,outflow,Technology,,Vendor_3
+1115,2025-10-24,2893.15,professional_services,outflow,Professional Services,,Vendor_23
+1119,2025-10-24,1841.56,other_expenses,outflow,Other Expenses,,Vendor_19
+1107,2025-10-24,21799.06,payroll,outflow,Payroll,,Vendor_17
+1116,2025-10-25,915.9,travel,outflow,Travel,,Vendor_12
+1105,2025-10-25,10842.77,cogs,outflow,Cogs,,Vendor_22
+1120,2025-10-25,1841.56,other_expenses,outflow,Other Expenses,,Vendor_20
+1097,2025-10-25,11847.18,revenue,inflow,Revenue,Customer_36,
+1117,2025-10-25,915.9,travel,outflow,Travel,,Vendor_15
+1106,2025-10-26,21799.06,payroll,outflow,Payroll,,Vendor_23
+1110,2025-10-26,2848.68,marketing,outflow,Marketing,,Vendor_21
+1141,2025-10-27,603.26,office_supplies,outflow,Office Supplies,,Vendor_9
+1134,2025-10-27,1847.89,technology,outflow,Technology,,Vendor_13
+1129,2025-10-27,10915.62,cogs,outflow,Cogs,,Vendor_29
+1126,2025-10-28,284.73,investment_income,inflow,Investment Income,Customer_27,
+1132,2025-10-28,15445.04,payroll,outflow,Payroll,,Vendor_1
+1142,2025-10-29,4255.6,other_expenses,outflow,Other Expenses,,Vendor_27
+1125,2025-10-29,14037.33,revenue,inflow,Revenue,Customer_22,
+1139,2025-10-29,837.51,travel,outflow,Travel,,Vendor_22
+1131,2025-10-29,15445.04,payroll,outflow,Payroll,,Vendor_28
+1136,2025-10-29,412.64,utilities,outflow,Utilities,,Vendor_20
+1124,2025-10-30,14037.33,revenue,inflow,Revenue,Customer_45,
+1137,2025-10-30,412.64,utilities,outflow,Utilities,,Vendor_1
+1122,2025-10-30,14037.33,revenue,inflow,Revenue,Customer_28,
+1121,2025-10-30,14037.33,revenue,inflow,Revenue,Customer_7,
+1130,2025-10-30,10915.62,cogs,outflow,Cogs,,Vendor_6
+1123,2025-10-30,14037.33,revenue,inflow,Revenue,Customer_22,
+1135,2025-10-31,1847.89,technology,outflow,Technology,,Vendor_6
+1138,2025-10-31,2354.51,professional_services,outflow,Professional Services,,Vendor_17
+1140,2025-11-01,837.51,travel,outflow,Travel,,Vendor_9
+1128,2025-11-01,1261.52,other_income,inflow,Other Income,Customer_6,
+1133,2025-11-01,6223.8,marketing,outflow,Marketing,,Vendor_3
+1127,2025-11-02,284.73,investment_income,inflow,Investment Income,Customer_41,
+1160,2025-11-03,1824.82,travel,outflow,Travel,,Vendor_10
+1159,2025-11-03,2097.78,professional_services,outflow,Professional Services,,Vendor_7
+1158,2025-11-03,523.66,utilities,outflow,Utilities,,Vendor_12
+1155,2025-11-04,2572.28,marketing,outflow,Marketing,,Vendor_4
+1154,2025-11-04,2572.28,marketing,outflow,Marketing,,Vendor_18
+1151,2025-11-04,8685.61,cogs,outflow,Cogs,,Vendor_5
+1152,2025-11-05,15138.76,payroll,outflow,Payroll,,Vendor_14
+1145,2025-11-05,21071.9,revenue,inflow,Revenue,Customer_11,
+1144,2025-11-05,21071.9,revenue,inflow,Revenue,Customer_46,
+1147,2025-11-06,268.69,investment_income,inflow,Investment Income,Customer_19,
+1157,2025-11-06,523.66,utilities,outflow,Utilities,,Vendor_17
+1149,2025-11-06,607.86,other_income,inflow,Other Income,Customer_48,
+1156,2025-11-06,3606.01,technology,outflow,Technology,,Vendor_18
+1161,2025-11-07,595.48,office_supplies,outflow,Office Supplies,,Vendor_10
+1146,2025-11-07,268.69,investment_income,inflow,Investment Income,Customer_1,
+1148,2025-11-07,607.86,other_income,inflow,Other Income,Customer_45,
+1162,2025-11-08,3784.99,other_expenses,outflow,Other Expenses,,Vendor_9
+1150,2025-11-09,8685.61,cogs,outflow,Cogs,,Vendor_28
+1143,2025-11-09,21071.9,revenue,inflow,Revenue,Customer_13,
+1153,2025-11-09,15138.76,payroll,outflow,Payroll,,Vendor_13
+1181,2025-11-10,1171.3,professional_services,outflow,Professional Services,,Vendor_22
+1173,2025-11-10,16790.42,payroll,outflow,Payroll,,Vendor_6
+1172,2025-11-10,16790.42,payroll,outflow,Payroll,,Vendor_23
+1184,2025-11-10,3098.55,other_expenses,outflow,Other Expenses,,Vendor_15
+1180,2025-11-11,1171.3,professional_services,outflow,Professional Services,,Vendor_27
+1176,2025-11-11,1926.41,technology,outflow,Technology,,Vendor_28
+1167,2025-11-12,10997.09,revenue,inflow,Revenue,Customer_16,
+1163,2025-11-12,10997.09,revenue,inflow,Revenue,Customer_20,
+1177,2025-11-13,1926.41,technology,outflow,Technology,,Vendor_2
+1174,2025-11-13,3400.05,marketing,outflow,Marketing,,Vendor_3
+1166,2025-11-14,10997.09,revenue,inflow,Revenue,Customer_38,
+1175,2025-11-14,3400.05,marketing,outflow,Marketing,,Vendor_23
+1165,2025-11-14,10997.09,revenue,inflow,Revenue,Customer_2,
+1171,2025-11-14,18179.37,cogs,outflow,Cogs,,Vendor_17
+1169,2025-11-15,712.22,investment_income,inflow,Investment Income,Customer_12,
+1168,2025-11-15,10997.09,revenue,inflow,Revenue,Customer_40,
+1164,2025-11-15,10997.09,revenue,inflow,Revenue,Customer_27,
+1170,2025-11-16,1159.26,other_income,inflow,Other Income,Customer_45,
+1178,2025-11-16,495.04,utilities,outflow,Utilities,,Vendor_9
+1179,2025-11-16,495.04,utilities,outflow,Utilities,,Vendor_23
+1183,2025-11-16,547.26,office_supplies,outflow,Office Supplies,,Vendor_4
+1182,2025-11-16,2049.95,travel,outflow,Travel,,Vendor_2

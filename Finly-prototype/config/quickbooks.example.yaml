@@ -1,0 +1,28 @@
+# QuickBooks Configuration
+# Copy this file to quickbooks.yaml and fill in your credentials
+
+quickbooks:
+  # OAuth 2.0 Credentials (from QuickBooks Developer Portal)
+  client_id: "YOUR_CLIENT_ID_HERE"
+  client_secret: "YOUR_CLIENT_SECRET_HERE"
+  redirect_uri: "http://localhost:8000/callback"
+
+  # Company Information
+  company_id: "YOUR_COMPANY_ID_HERE"  # Also called Realm ID
+
+  # Environment
+  environment: "sandbox"  # or "production"
+
+  # API Settings
+  api_version: "v3"
+  base_url_sandbox: "https://sandbox-quickbooks.api.intuit.com"
+  base_url_production: "https://quickbooks.api.intuit.com"
+
+# Category Mapping (Optional Custom Mappings)
+category_mappings:
+  # Map QuickBooks categories to Finly categories
+  "Sales of Product Income": "revenue"
+  "Consulting Income": "revenue"
+  "Employee Benefits": "payroll"
+  "Office Rent": "rent"
+  # Add more custom mappings as needed
